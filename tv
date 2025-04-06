@@ -1,4 +1,4 @@
-I T V,#genre#
+央     视,#genre#
 cctv1-高码,http://104.238.221.42:8880/gaoma/cctv1.m3u8
 cctv1-高码,http://104.238.221.42:8880/gaoma/cctv1.m3u8
 cctv1-高码,http://104.238.221.42:8880/gaoma/cctv1.m3u8
@@ -27,6 +27,7 @@ cctv4k,http://104.238.221.42:8880/gaoma/cctv4k_10m.m3u8
 cctv4k,http://104.238.221.42:8880/gaoma/cctv4k.m3u8
 北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 cctv8k,http://104.238.221.42:8880/gaoma/cctv8k_36m.m3u8
+卫     视,#genre#
 北京卫视,http://104.238.221.42:8880/bptv/10000100000000050000000003870776.m3u8
 卡酷少儿,http://104.238.221.42:8880/bptv/10000100000000050000000003904597.m3u8
 湖南卫视,http://104.238.221.42:8880/bptv/10000100000000050000000003873458.m3u8
