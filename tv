@@ -59,14 +59,6 @@ CETV1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8
 云南卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226709/1.m3u8
 西藏卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226710/1.m3u8
 电影频道,#genre#
-八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
-CH5,https://cdn6.163189.xyz/live/ch5/stream.m3u8
-CH8,https://cdn6.163189.xyz/live/ch8/stream.m3u8
-CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
-翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
-TVB J1,http://cdn3.163189.xyz/live/j1/stream.m3u8
-凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
-重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
@@ -76,6 +68,43 @@ TVB J1,http://cdn3.163189.xyz/live/j1/stream.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
+Channel 5 HD,https://cdn6.163189.xyz/live/ch5/stream.m3u8
+Channel 8 HD,https://cdn6.163189.xyz/live/ch8/stream.m3u8
+Channel U HD,https://cdn6.163189.xyz/live/chu/stream.m3u8
+翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
+TVB J1,http://cdn3.163189.xyz/live/j1/stream.m3u8
+凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
+重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+重温经典,https://cdn3.163189.xyz/live/cwjd/stream.m3u8
+TVB J1,https://cdn3.163189.xyz/live/j1/stream.m3u8
+RTHK31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
+RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+无线翡翠4k,http://cdn.163189.xyz/live/fct4k/stream.m3u8
+CCTV1港澳版,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
+澳视卫星,https://cdn.163189.xyz/live/as/stream.m3u8
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
+广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8
+无线翡翠,https://cdn3.163189.xyz/live/live2.1.php?id.m3u8
+广东珠江,https://cdn2.163189.xyz/live/gdzj/stream.m3u8
+凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+凤凰卫视,https://cdn.163189.xyz/live/fhzw/stream.m3u8
+翡翠台4K,https://cdn.163189.xyz/live/fct4k/stream.m3u8
+Plus综合,https://cdn.163189.xyz/live/tvbp/stream.m3u8
+翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
+TVB PLUS,https://cdn.163189.xyz/live/tvbp/stream.m3u8
+HOY TV,https://cdn.163189.xyz/live/hoy/stream.m3u8
+Astro AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
+HOY,https://cdn.163189.xyz/live/hoy/stream.m3u8
+HOY,http://cdn.163189.xyz/live/hoy/stream.m3u8
+HOY,https://cdn3.163189.xyz/live/hoy/stream.m3u8
+J1,https://cdn3.163189.xyz/live/live2.1.php?id=j1
+J1,http://cdn3.163189.xyz/live/j1/stream.m3u8
+J2,http://cdn.163189.xyz/live/tvbp/stream.m3u8
 CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
 CHC动作电影,http://119.32.12.17:2901/udp/224.1.100.131:11111
