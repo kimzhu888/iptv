@@ -1,4 +1,10 @@
 CCTV2,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-2HD/index.m3u8
+8060,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-2HD/index.m3u8
+9092,http://slb.5gtv.hbcatv.cn:9092/live/OP001/IP-CCTV-2HD/index.m3u8
+9091,http://slb.5gtv.hbcatv.cn:9091/live/OP001/IP-CCTV-2HD/index.m3u8
+9093,http://slb.5gtv.hbcatv.cn:9093/live/OP001/IP-CCTV-2HD/index.m3u8
+6666,http://27.185.68.162:9093/live/OP001/IP-CCTV-2HD/index.m3u8
+9091,http://465126562.cloudvdn.com:9091/live/OP001/IP-CCTV-2HD/index.m3u8
 
 端口【9091-9093】
 CCTV1,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CCTV-1HD/7999000/7999000.m3u8
