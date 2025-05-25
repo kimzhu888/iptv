@@ -12,7 +12,7 @@ c3tv.woofoo.cn
 www.douzhicloud.site:35455
 
 
-央视频道,#genre#
+央视频道,#genre#,DE=-1#SC=-1#HEADERS=null#JS=null#PB=null#HOST=null#PBO=120#IJKAD=-1#TSO=0
 凤凰中文,https://cdn5.163189.xyz/live/fhzw/stream.m3u8
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 CCTV1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226737/1.m3u8
@@ -38,7 +38,7 @@ CCTV14,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226645/1.m3u8
 CCTV15,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226648/1.m3u8
 CCTV16,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226825/1.m3u8
 CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
-卫视频道,#genre#
+卫视频道,#genre#,DE=-1#SC=-1#HEADERS=null#JS=null#PB=null#HOST=null#PBO=120#IJKAD=-1#TSO=0
 安徽卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226664/1.m3u8
 北京卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226719/1.m3u8
 东方卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226734/1.m3u8
