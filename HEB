@@ -1,3 +1,5 @@
+CCTV2,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-2HD/index.m3u8
+
 端口【9091-9093】
 CCTV1,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CCTV-1HD/7999000/7999000.m3u8
 CCTV2,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CCTV-2HD/7999000/7999000.m3u8
