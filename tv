@@ -430,7 +430,791 @@ CETV1,http://183.188.22.173:6000/rtp/226.0.2.181:9360
 茶频道,http://183.188.22.173:6000/rtp/226.0.2.213:9616
 快乐垂钓,http://183.188.22.173:6000/rtp/226.0.2.214:9624
 
-
+綜合其他,#genre#
+民視第一台,http://mianti.pendy.dpdns.org/4gtv-4gtv003/index.m3u8?proxy=true
+民視台灣台,http://mianti.pendy.dpdns.org/4gtv-4gtv001/index.m3u8?proxy=true
+民視,http://mianti.pendy.dpdns.org/4gtv-4gtv002/index.m3u8?proxy=true
+大愛電視,http://mianti.pendy.dpdns.org/4gtv-live007/index.m3u8?proxy=true
+中視,http://mianti.pendy.dpdns.org/4gtv-4gtv040/index.m3u8?proxy=true
+華視,http://mianti.pendy.dpdns.org/4gtv-4gtv041/index.m3u8?proxy=true
+三立綜合台HD,http://mianti.pendy.dpdns.org/4gtv-live207/index.m3u8?proxy=true
+客家電視台,http://mianti.pendy.dpdns.org/4gtv-4gtv043/index.m3u8?proxy=true
+中視菁采台,http://mianti.pendy.dpdns.org/4gtv-4gtv064/index.m3u8?proxy=true
+靖天綜合台,http://mianti.pendy.dpdns.org/4gtv-4gtv046/index.m3u8?proxy=true
+靖天日本台,http://mianti.pendy.dpdns.org/4gtv-4gtv047/index.m3u8?proxy=true
+新唐人亞太台,http://mianti.pendy.dpdns.org/4gtv-live050/index.m3u8?proxy=true
+ARIRANG阿里郎頻道,http://mianti.pendy.dpdns.org/4gtv-4gtv079/index.m3u8?proxy=true
+原住民族電視台,http://mianti.pendy.dpdns.org/4gtv-live014/index.m3u8?proxy=true
+東森購物四台,http://mianti.pendy.dpdns.org/4gtv-live049/index.m3u8?proxy=true
+東森購物一台,http://mianti.pendy.dpdns.org/4gtv-live047/index.m3u8?proxy=true
+東森購物一台,http://mianti.pendy.dpdns.org/4gtv-4gtv102/index.m3u8?proxy=true
+東森購物一台,http://mianti.pendy.dpdns.org/of-4gtv-4gtv102/index.m3u8?proxy=true
+TVBS,http://mianti.pendy.dpdns.org/4gtv-4gtv073/index.m3u8?proxy=true
+東森購物二台,http://mianti.pendy.dpdns.org/4gtv-live046/index.m3u8?proxy=true
+東森購物二台,http://mianti.pendy.dpdns.org/4gtv-4gtv103/index.m3u8?proxy=true
+東森購物二台,http://mianti.pendy.dpdns.org/of-4gtv-4gtv103/index.m3u8?proxy=true
+靖天育樂台,http://mianti.pendy.dpdns.org/4gtv-4gtv062/index.m3u8?proxy=true
+KLT-靖天國際台,http://mianti.pendy.dpdns.org/4gtv-4gtv063/index.m3u8?proxy=true
+Nice TV 靖天歡樂台,http://mianti.pendy.dpdns.org/4gtv-4gtv054/index.m3u8?proxy=true
+靖天資訊台,http://mianti.pendy.dpdns.org/4gtv-4gtv065/index.m3u8?proxy=true
+韓國娛樂台 KMTV,http://mianti.pendy.dpdns.org/4gtv-4gtv016/index.m3u8?proxy=true
+東森購物三台,http://mianti.pendy.dpdns.org/4gtv-live048/index.m3u8?proxy=true
+好消息,http://mianti.pendy.dpdns.org/litv-ftv16/index.m3u8?proxy=true
+好消息2台,http://mianti.pendy.dpdns.org/litv-ftv17/index.m3u8?proxy=true
+大愛二台,http://mianti.pendy.dpdns.org/4gtv-live106/index.m3u8?proxy=true
+人間衛視,http://mianti.pendy.dpdns.org/4gtv-live008/index.m3u8?proxy=true
+國會頻道1,http://mianti.pendy.dpdns.org/4gtv-4gtv084/index.m3u8?proxy=true
+國會頻道2,http://mianti.pendy.dpdns.org/4gtv-4gtv085/index.m3u8?proxy=true
+民視第一台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv003/index.m3u8?proxy=true
+民視台灣台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv001/index.m3u8?proxy=true
+中視,http://mianti.pendy.dpdns.org/li-4gtv-4gtv040/index.m3u8?proxy=true
+華視,http://mianti.pendy.dpdns.org/li-4gtv-4gtv041/index.m3u8?proxy=true
+中天亞洲台,http://mianti.pendy.dpdns.org/4gtv-4gtv109/index.m3u8?proxy=true
+客家電視台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv043/index.m3u8?proxy=true
+中視菁采台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv064/index.m3u8?proxy=true
+靖天綜合台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv046/index.m3u8?proxy=true
+靖天日本台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv047/index.m3u8?proxy=true
+ARIRANG阿里郎頻道,http://mianti.pendy.dpdns.org/li-4gtv-4gtv079/index.m3u8?proxy=true
+TVBS,http://mianti.pendy.dpdns.org/li-4gtv-4gtv073/index.m3u8?proxy=true
+靖天育樂台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv062/index.m3u8?proxy=true
+KLT-靖天國際台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv063/index.m3u8?proxy=true
+Nice TV 靖天歡樂台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv054/index.m3u8?proxy=true
+靖天資訊台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv065/index.m3u8?proxy=true
+韓國娛樂台 KMTV,http://mianti.pendy.dpdns.org/li-4gtv-4gtv016/index.m3u8?proxy=true
+好消息,http://mianti.pendy.dpdns.org/li-litv-ftv16/index.m3u8?proxy=true
+好消息2台,http://mianti.pendy.dpdns.org/li-litv-ftv17/index.m3u8?proxy=true
+國會頻道1,http://mianti.pendy.dpdns.org/li-4gtv-4gtv084/index.m3u8?proxy=true
+國會頻道2,http://mianti.pendy.dpdns.org/li-4gtv-4gtv085/index.m3u8?proxy=true
+台視,http://mianti.pendy.dpdns.org/li-4gtv-4gtv066/index.m3u8?proxy=true
+台視,http://mianti.pendy.dpdns.org/4gtv-4gtv066/index.m3u8?proxy=true
+中視,http://mianti.pendy.dpdns.org/of-4gtv-4gtv040/index.m3u8?proxy=true
+華視,http://mianti.pendy.dpdns.org/of-4gtv-4gtv041/index.m3u8?proxy=true
+好消息,http://mianti.pendy.dpdns.org/of-litv-ftv16/index.m3u8?proxy=true
+好消息2台,http://mianti.pendy.dpdns.org/of-litv-ftv17/index.m3u8?proxy=true
+國會頻道1,http://mianti.pendy.dpdns.org/of-4gtv-4gtv084/index.m3u8?proxy=true
+國會頻道2,http://mianti.pendy.dpdns.org/of-4gtv-4gtv085/index.m3u8?proxy=true
+民視第一台,http://4gtv.livednow.dpdns.org/4gtv-4gtv003/index.m3u8
+民視台灣台,http://4gtv.livednow.dpdns.org/4gtv-4gtv001/index.m3u8
+民視,http://4gtv.livednow.dpdns.org/4gtv-4gtv002/index.m3u8
+大愛電視,http://4gtv.livednow.dpdns.org/4gtv-live007/index.m3u8
+中視,http://4gtv.livednow.dpdns.org/4gtv-4gtv040/index.m3u8
+華視,http://4gtv.livednow.dpdns.org/4gtv-4gtv041/index.m3u8
+三立綜合台HD,http://4gtv.livednow.dpdns.org/4gtv-live207/index.m3u8
+客家電視台,http://4gtv.livednow.dpdns.org/4gtv-4gtv043/index.m3u8
+中視菁采台,http://4gtv.livednow.dpdns.org/4gtv-4gtv064/index.m3u8
+靖天綜合台,http://4gtv.livednow.dpdns.org/4gtv-4gtv046/index.m3u8
+靖天日本台,http://4gtv.livednow.dpdns.org/4gtv-4gtv047/index.m3u8
+新唐人亞太台,http://4gtv.livednow.dpdns.org/4gtv-live050/index.m3u8
+ARIRANG阿里郎頻道,http://4gtv.livednow.dpdns.org/4gtv-4gtv079/index.m3u8
+原住民族電視台,http://4gtv.livednow.dpdns.org/4gtv-live014/index.m3u8
+東森購物四台,http://4gtv.livednow.dpdns.org/4gtv-live049/index.m3u8
+東森購物一台,http://4gtv.livednow.dpdns.org/4gtv-live047/index.m3u8
+東森購物一台,http://4gtv.livednow.dpdns.org/4gtv-4gtv102/index.m3u8
+東森購物一台,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv102/index.m3u8
+TVBS,http://4gtv.livednow.dpdns.org/4gtv-4gtv073/index.m3u8
+東森購物二台,http://4gtv.livednow.dpdns.org/4gtv-live046/index.m3u8
+東森購物二台,http://4gtv.livednow.dpdns.org/4gtv-4gtv103/index.m3u8
+東森購物二台,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv103/index.m3u8
+靖天育樂台,http://4gtv.livednow.dpdns.org/4gtv-4gtv062/index.m3u8
+KLT-靖天國際台,http://4gtv.livednow.dpdns.org/4gtv-4gtv063/index.m3u8
+Nice TV 靖天歡樂台,http://4gtv.livednow.dpdns.org/4gtv-4gtv054/index.m3u8
+靖天資訊台,http://4gtv.livednow.dpdns.org/4gtv-4gtv065/index.m3u8
+韓國娛樂台 KMTV,http://4gtv.livednow.dpdns.org/4gtv-4gtv016/index.m3u8
+東森購物三台,http://4gtv.livednow.dpdns.org/4gtv-live048/index.m3u8
+好消息,http://4gtv.livednow.dpdns.org/litv-ftv16/index.m3u8
+好消息2台,http://4gtv.livednow.dpdns.org/litv-ftv17/index.m3u8
+大愛二台,http://4gtv.livednow.dpdns.org/4gtv-live106/index.m3u8
+人間衛視,http://4gtv.livednow.dpdns.org/4gtv-live008/index.m3u8
+國會頻道1,http://4gtv.livednow.dpdns.org/4gtv-4gtv084/index.m3u8
+國會頻道2,http://4gtv.livednow.dpdns.org/4gtv-4gtv085/index.m3u8
+民視第一台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv003/index.m3u8
+民視台灣台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv001/index.m3u8
+中視,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv040/index.m3u8
+華視,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv041/index.m3u8
+中天亞洲台,http://4gtv.livednow.dpdns.org/4gtv-4gtv109/index.m3u8
+客家電視台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv043/index.m3u8
+中視菁采台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv064/index.m3u8
+靖天綜合台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv046/index.m3u8
+靖天日本台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv047/index.m3u8
+ARIRANG阿里郎頻道,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv079/index.m3u8
+TVBS,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv073/index.m3u8
+靖天育樂台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv062/index.m3u8
+KLT-靖天國際台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv063/index.m3u8
+Nice TV 靖天歡樂台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv054/index.m3u8
+靖天資訊台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv065/index.m3u8
+韓國娛樂台 KMTV,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv016/index.m3u8
+好消息,http://4gtv.livednow.dpdns.org/li-litv-ftv16/index.m3u8
+好消息2台,http://4gtv.livednow.dpdns.org/li-litv-ftv17/index.m3u8
+國會頻道1,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv084/index.m3u8
+國會頻道2,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv085/index.m3u8
+台視,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv066/index.m3u8
+台視,http://4gtv.livednow.dpdns.org/4gtv-4gtv066/index.m3u8
+中視,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv040/index.m3u8
+華視,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv041/index.m3u8
+好消息,http://4gtv.livednow.dpdns.org/of-litv-ftv16/index.m3u8
+好消息2台,http://4gtv.livednow.dpdns.org/of-litv-ftv17/index.m3u8
+國會頻道1,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv084/index.m3u8
+國會頻道2,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv085/index.m3u8
+電影戲劇,#genre#
+中視經典台,http://mianti.pendy.dpdns.org/4gtv-4gtv080/index.m3u8?proxy=true
+ROCK Entertainment,http://mianti.pendy.dpdns.org/4gtv-live080/index.m3u8?proxy=true
+公視戲劇,http://mianti.pendy.dpdns.org/4gtv-4gtv042/index.m3u8?proxy=true
+民視影劇台,http://mianti.pendy.dpdns.org/litv-ftv09/index.m3u8?proxy=true
+HITS頻道,http://mianti.pendy.dpdns.org/4gtv-live620/index.m3u8?proxy=true
+霹靂布袋戲,http://mianti.pendy.dpdns.org/4gtv-live145/index.m3u8?proxy=true
+靖天戲劇台,http://mianti.pendy.dpdns.org/4gtv-4gtv058/index.m3u8?proxy=true
+靖洋戲劇台,http://mianti.pendy.dpdns.org/4gtv-4gtv045/index.m3u8?proxy=true
+金光布袋戲,http://mianti.pendy.dpdns.org/4gtv-live144/index.m3u8?proxy=true
+ROCK Action,http://mianti.pendy.dpdns.org/4gtv-live138/index.m3u8?proxy=true
+采昌影劇台,http://mianti.pendy.dpdns.org/4gtv-4gtv049/index.m3u8?proxy=true
+靖天映畫,http://mianti.pendy.dpdns.org/4gtv-4gtv055/index.m3u8?proxy=true
+靖天電影台,http://mianti.pendy.dpdns.org/4gtv-4gtv061/index.m3u8?proxy=true
+影迷數位電影台,http://mianti.pendy.dpdns.org/4gtv-4gtv011/index.m3u8?proxy=true
+amc電影台,http://mianti.pendy.dpdns.org/4gtv-4gtv017/index.m3u8?proxy=true
+CinemaWorld,http://mianti.pendy.dpdns.org/4gtv-live069/index.m3u8?proxy=true
+My Cinema Europe HD 我的歐洲電影,http://mianti.pendy.dpdns.org/4gtv-live157/index.m3u8?proxy=true
+TVBS台劇台,http://mianti.pendy.dpdns.org/4gtv-live088/index.m3u8?proxy=true
+經典電影台,http://mianti.pendy.dpdns.org/4gtv-live021/index.m3u8?proxy=true
+戲劇免費看 1台,http://mianti.pendy.dpdns.org/4gtv-live010/index.m3u8?proxy=true
+中視經典台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv080/index.m3u8?proxy=true
+龍華洋片HD,http://mianti.pendy.dpdns.org/li-litv-longturn02/index.m3u8?proxy=true
+龍華電影台,http://mianti.pendy.dpdns.org/li-litv-longturn03/index.m3u8?proxy=true
+龍華日韓台,http://mianti.pendy.dpdns.org/li-litv-longturn11/index.m3u8?proxy=true
+龍華偶像台,http://mianti.pendy.dpdns.org/li-litv-longturn12/index.m3u8?proxy=true
+龍華戲劇台,http://mianti.pendy.dpdns.org/li-litv-longturn18/index.m3u8?proxy=true
+龍華經典HD,http://mianti.pendy.dpdns.org/li-litv-longturn21/index.m3u8?proxy=true
+公視戲劇,http://mianti.pendy.dpdns.org/li-4gtv-4gtv042/index.m3u8?proxy=true
+民視影劇台,http://mianti.pendy.dpdns.org/li-litv-ftv09/index.m3u8?proxy=true
+靖天戲劇台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv058/index.m3u8?proxy=true
+靖洋戲劇台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv045/index.m3u8?proxy=true
+采昌影劇台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv049/index.m3u8?proxy=true
+靖天映畫,http://mianti.pendy.dpdns.org/li-4gtv-4gtv055/index.m3u8?proxy=true
+靖天電影台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv061/index.m3u8?proxy=true
+影迷數位電影台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv011/index.m3u8?proxy=true
+amc電影台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv017/index.m3u8?proxy=true
+台灣戲劇HD,http://mianti.pendy.dpdns.org/li-litv-longturn22/index.m3u8?proxy=true
+台灣戲劇HD,http://mianti.pendy.dpdns.org/litv-longturn22/index.m3u8?proxy=true
+龍華洋片HD,http://mianti.pendy.dpdns.org/litv-longturn02/index.m3u8?proxy=true
+龍華電影台,http://mianti.pendy.dpdns.org/litv-longturn03/index.m3u8?proxy=true
+龍華日韓台,http://mianti.pendy.dpdns.org/litv-longturn11/index.m3u8?proxy=true
+龍華偶像台,http://mianti.pendy.dpdns.org/litv-longturn12/index.m3u8?proxy=true
+龍華戲劇台,http://mianti.pendy.dpdns.org/litv-longturn18/index.m3u8?proxy=true
+龍華經典HD,http://mianti.pendy.dpdns.org/litv-longturn21/index.m3u8?proxy=true
+中視經典台,http://4gtv.livednow.dpdns.org/4gtv-4gtv080/index.m3u8
+ROCK Entertainment,http://4gtv.livednow.dpdns.org/4gtv-live080/index.m3u8
+公視戲劇,http://4gtv.livednow.dpdns.org/4gtv-4gtv042/index.m3u8
+民視影劇台,http://4gtv.livednow.dpdns.org/litv-ftv09/index.m3u8
+HITS頻道,http://4gtv.livednow.dpdns.org/4gtv-live620/index.m3u8
+霹靂布袋戲,http://4gtv.livednow.dpdns.org/4gtv-live145/index.m3u8
+靖天戲劇台,http://4gtv.livednow.dpdns.org/4gtv-4gtv058/index.m3u8
+靖洋戲劇台,http://4gtv.livednow.dpdns.org/4gtv-4gtv045/index.m3u8
+金光布袋戲,http://4gtv.livednow.dpdns.org/4gtv-live144/index.m3u8
+ROCK Action,http://4gtv.livednow.dpdns.org/4gtv-live138/index.m3u8
+采昌影劇台,http://4gtv.livednow.dpdns.org/4gtv-4gtv049/index.m3u8
+靖天映畫,http://4gtv.livednow.dpdns.org/4gtv-4gtv055/index.m3u8
+靖天電影台,http://4gtv.livednow.dpdns.org/4gtv-4gtv061/index.m3u8
+影迷數位電影台,http://4gtv.livednow.dpdns.org/4gtv-4gtv011/index.m3u8
+amc電影台,http://4gtv.livednow.dpdns.org/4gtv-4gtv017/index.m3u8
+CinemaWorld,http://4gtv.livednow.dpdns.org/4gtv-live069/index.m3u8
+My Cinema Europe HD 我的歐洲電影,http://4gtv.livednow.dpdns.org/4gtv-live157/index.m3u8
+TVBS台劇台,http://4gtv.livednow.dpdns.org/4gtv-live088/index.m3u8
+經典電影台,http://4gtv.livednow.dpdns.org/4gtv-live021/index.m3u8
+戲劇免費看 1台,http://4gtv.livednow.dpdns.org/4gtv-live010/index.m3u8
+中視經典台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv080/index.m3u8
+龍華洋片HD,http://4gtv.livednow.dpdns.org/li-litv-longturn02/index.m3u8
+龍華電影台,http://4gtv.livednow.dpdns.org/li-litv-longturn03/index.m3u8
+龍華日韓台,http://4gtv.livednow.dpdns.org/li-litv-longturn11/index.m3u8
+龍華偶像台,http://4gtv.livednow.dpdns.org/li-litv-longturn12/index.m3u8
+龍華戲劇台,http://4gtv.livednow.dpdns.org/li-litv-longturn18/index.m3u8
+龍華經典HD,http://4gtv.livednow.dpdns.org/li-litv-longturn21/index.m3u8
+公視戲劇,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv042/index.m3u8
+民視影劇台,http://4gtv.livednow.dpdns.org/li-litv-ftv09/index.m3u8
+靖天戲劇台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv058/index.m3u8
+靖洋戲劇台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv045/index.m3u8
+采昌影劇台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv049/index.m3u8
+靖天映畫,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv055/index.m3u8
+靖天電影台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv061/index.m3u8
+影迷數位電影台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv011/index.m3u8
+amc電影台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv017/index.m3u8
+台灣戲劇HD,http://4gtv.livednow.dpdns.org/li-litv-longturn22/index.m3u8
+台灣戲劇HD,http://4gtv.livednow.dpdns.org/litv-longturn22/index.m3u8
+龍華洋片HD,http://4gtv.livednow.dpdns.org/litv-longturn02/index.m3u8
+龍華電影台,http://4gtv.livednow.dpdns.org/litv-longturn03/index.m3u8
+龍華日韓台,http://4gtv.livednow.dpdns.org/litv-longturn11/index.m3u8
+龍華偶像台,http://4gtv.livednow.dpdns.org/litv-longturn12/index.m3u8
+龍華戲劇台,http://4gtv.livednow.dpdns.org/litv-longturn18/index.m3u8
+龍華經典HD,http://4gtv.livednow.dpdns.org/litv-longturn21/index.m3u8
+音樂綜藝,#genre#
+八大綜藝台,http://mianti.pendy.dpdns.org/4gtv-4gtv039/index.m3u8?proxy=true
+TVBS精采台,http://mianti.pendy.dpdns.org/4gtv-4gtv067/index.m3u8?proxy=true
+愛爾達娛樂台,http://mianti.pendy.dpdns.org/4gtv-4gtv070/index.m3u8?proxy=true
+民視綜藝台,http://mianti.pendy.dpdns.org/4gtv-4gtv004/index.m3u8?proxy=true
+豬哥亮歌廳秀,http://mianti.pendy.dpdns.org/4gtv-4gtv006/index.m3u8?proxy=true
+TVBS歡樂台,http://mianti.pendy.dpdns.org/4gtv-4gtv068/index.m3u8?proxy=true
+電影原聲台CMusic,http://mianti.pendy.dpdns.org/4gtv-live031/index.m3u8?proxy=true
+TRACE Urban,http://mianti.pendy.dpdns.org/4gtv-4gtv082/index.m3u8?proxy=true
+MTV Live HD 音樂頻道,http://mianti.pendy.dpdns.org/4gtv-live025/index.m3u8?proxy=true
+Mezzo Live HD,http://mianti.pendy.dpdns.org/4gtv-4gtv083/index.m3u8?proxy=true
+CLASSICA 古典樂,http://mianti.pendy.dpdns.org/4gtv-4gtv059/index.m3u8?proxy=true
+八大精彩台,http://mianti.pendy.dpdns.org/4gtv-4gtv034/index.m3u8?proxy=true
+TVBS綜藝台,http://mianti.pendy.dpdns.org/4gtv-live087/index.m3u8?proxy=true
+八大綜藝台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv039/index.m3u8?proxy=true
+TVBS精采台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv067/index.m3u8?proxy=true
+愛爾達娛樂台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv070/index.m3u8?proxy=true
+民視綜藝台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv004/index.m3u8?proxy=true
+豬哥亮歌廳秀,http://mianti.pendy.dpdns.org/li-4gtv-4gtv006/index.m3u8?proxy=true
+TVBS歡樂台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv068/index.m3u8?proxy=true
+TRACE Urban,http://mianti.pendy.dpdns.org/li-4gtv-4gtv082/index.m3u8?proxy=true
+Mezzo Live HD,http://mianti.pendy.dpdns.org/li-4gtv-4gtv083/index.m3u8?proxy=true
+CLASSICA 古典樂,http://mianti.pendy.dpdns.org/li-4gtv-4gtv059/index.m3u8?proxy=true
+八大精彩台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv034/index.m3u8?proxy=true
+八大綜藝台,http://4gtv.livednow.dpdns.org/4gtv-4gtv039/index.m3u8
+TVBS精采台,http://4gtv.livednow.dpdns.org/4gtv-4gtv067/index.m3u8
+愛爾達娛樂台,http://4gtv.livednow.dpdns.org/4gtv-4gtv070/index.m3u8
+民視綜藝台,http://4gtv.livednow.dpdns.org/4gtv-4gtv004/index.m3u8
+豬哥亮歌廳秀,http://4gtv.livednow.dpdns.org/4gtv-4gtv006/index.m3u8
+TVBS歡樂台,http://4gtv.livednow.dpdns.org/4gtv-4gtv068/index.m3u8
+電影原聲台CMusic,http://4gtv.livednow.dpdns.org/4gtv-live031/index.m3u8
+TRACE Urban,http://4gtv.livednow.dpdns.org/4gtv-4gtv082/index.m3u8
+MTV Live HD 音樂頻道,http://4gtv.livednow.dpdns.org/4gtv-live025/index.m3u8
+Mezzo Live HD,http://4gtv.livednow.dpdns.org/4gtv-4gtv083/index.m3u8
+CLASSICA 古典樂,http://4gtv.livednow.dpdns.org/4gtv-4gtv059/index.m3u8
+八大精彩台,http://4gtv.livednow.dpdns.org/4gtv-4gtv034/index.m3u8
+TVBS綜藝台,http://4gtv.livednow.dpdns.org/4gtv-live087/index.m3u8
+八大綜藝台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv039/index.m3u8
+TVBS精采台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv067/index.m3u8
+愛爾達娛樂台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv070/index.m3u8
+民視綜藝台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv004/index.m3u8
+豬哥亮歌廳秀,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv006/index.m3u8
+TVBS歡樂台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv068/index.m3u8
+TRACE Urban,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv082/index.m3u8
+Mezzo Live HD,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv083/index.m3u8
+CLASSICA 古典樂,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv059/index.m3u8
+八大精彩台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv034/index.m3u8
+生活旅遊,#genre#
+Global Trekker,http://mianti.pendy.dpdns.org/4gtv-live112/index.m3u8?proxy=true
+Lifetime 娛樂頻道,http://mianti.pendy.dpdns.org/4gtv-live029/index.m3u8?proxy=true
+INULTRA,http://mianti.pendy.dpdns.org/4gtv-live096/index.m3u8?proxy=true
+Pet Club TV,http://mianti.pendy.dpdns.org/4gtv-live110/index.m3u8?proxy=true
+民視旅遊台,http://mianti.pendy.dpdns.org/litv-ftv07/index.m3u8?proxy=true
+滾動力rollor,http://mianti.pendy.dpdns.org/4gtv-live012/index.m3u8?proxy=true
+亞洲旅遊台,http://mianti.pendy.dpdns.org/4gtv-4gtv076/index.m3u8?proxy=true
+fun探索娛樂台,http://mianti.pendy.dpdns.org/4gtv-live011/index.m3u8?proxy=true
+幸福空間居家台,http://mianti.pendy.dpdns.org/4gtv-live206/index.m3u8?proxy=true
+Love Nature,http://mianti.pendy.dpdns.org/4gtv-live208/index.m3u8?proxy=true
+愛爾達生活旅遊台,http://mianti.pendy.dpdns.org/4gtv-live120/index.m3u8?proxy=true
+LUXE TV Channel,http://mianti.pendy.dpdns.org/4gtv-live121/index.m3u8?proxy=true
+TV5MONDE STYLE HD 生活時尚,http://mianti.pendy.dpdns.org/4gtv-live122/index.m3u8?proxy=true
+MagellanTV頻道 (麥哲倫頻道),http://mianti.pendy.dpdns.org/4gtv-live123/index.m3u8?proxy=true
+民視旅遊台,http://mianti.pendy.dpdns.org/li-litv-ftv07/index.m3u8?proxy=true
+亞洲旅遊台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv076/index.m3u8?proxy=true
+Smart知識台,http://mianti.pendy.dpdns.org/li-litv-longturn19/index.m3u8?proxy=true
+亞洲旅遊台,http://mianti.pendy.dpdns.org/of-4gtv-4gtv076/index.m3u8?proxy=true
+Smart知識台,http://mianti.pendy.dpdns.org/litv-longturn19/index.m3u8?proxy=true
+Global Trekker,http://4gtv.livednow.dpdns.org/4gtv-live112/index.m3u8
+Lifetime 娛樂頻道,http://4gtv.livednow.dpdns.org/4gtv-live029/index.m3u8
+INULTRA,http://4gtv.livednow.dpdns.org/4gtv-live096/index.m3u8
+Pet Club TV,http://4gtv.livednow.dpdns.org/4gtv-live110/index.m3u8
+民視旅遊台,http://4gtv.livednow.dpdns.org/litv-ftv07/index.m3u8
+滾動力rollor,http://4gtv.livednow.dpdns.org/4gtv-live012/index.m3u8
+亞洲旅遊台,http://4gtv.livednow.dpdns.org/4gtv-4gtv076/index.m3u8
+fun探索娛樂台,http://4gtv.livednow.dpdns.org/4gtv-live011/index.m3u8
+幸福空間居家台,http://4gtv.livednow.dpdns.org/4gtv-live206/index.m3u8
+Love Nature,http://4gtv.livednow.dpdns.org/4gtv-live208/index.m3u8
+愛爾達生活旅遊台,http://4gtv.livednow.dpdns.org/4gtv-live120/index.m3u8
+LUXE TV Channel,http://4gtv.livednow.dpdns.org/4gtv-live121/index.m3u8
+TV5MONDE STYLE HD 生活時尚,http://4gtv.livednow.dpdns.org/4gtv-live122/index.m3u8
+MagellanTV頻道 (麥哲倫頻道),http://4gtv.livednow.dpdns.org/4gtv-live123/index.m3u8
+民視旅遊台,http://4gtv.livednow.dpdns.org/li-litv-ftv07/index.m3u8
+亞洲旅遊台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv076/index.m3u8
+Smart知識台,http://4gtv.livednow.dpdns.org/li-litv-longturn19/index.m3u8
+亞洲旅遊台,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv076/index.m3u8
+Smart知識台,http://4gtv.livednow.dpdns.org/litv-longturn19/index.m3u8
+兒童卡通,#genre#
+LiveABC互動英語頻道,http://mianti.pendy.dpdns.org/4gtv-live030/index.m3u8?proxy=true
+達文西頻道,http://mianti.pendy.dpdns.org/4gtv-4gtv018/index.m3u8?proxy=true
+ELTV生活英語台,http://mianti.pendy.dpdns.org/litv-longturn20/index.m3u8?proxy=true
+Nick Jr. 兒童頻道,http://mianti.pendy.dpdns.org/4gtv-live032/index.m3u8?proxy=true
+Nickelodeon,http://mianti.pendy.dpdns.org/4gtv-live105/index.m3u8?proxy=true
+DreamWorks 夢工廠動畫,http://mianti.pendy.dpdns.org/4gtv-live017/index.m3u8?proxy=true
+靖天卡通台,http://mianti.pendy.dpdns.org/4gtv-4gtv044/index.m3u8?proxy=true
+靖洋卡通Nice Bingo,http://mianti.pendy.dpdns.org/4gtv-4gtv057/index.m3u8?proxy=true
+MOMO親子台,http://mianti.pendy.dpdns.org/4gtv-live107/index.m3u8?proxy=true
+經典卡通台,http://mianti.pendy.dpdns.org/4gtv-live022/index.m3u8?proxy=true
+精選動漫台,http://mianti.pendy.dpdns.org/4gtv-live024/index.m3u8?proxy=true
+龍華卡通台,http://mianti.pendy.dpdns.org/li-litv-longturn01/index.m3u8?proxy=true
+達文西頻道,http://mianti.pendy.dpdns.org/li-4gtv-4gtv018/index.m3u8?proxy=true
+ELTV生活英語台,http://mianti.pendy.dpdns.org/li-litv-longturn20/index.m3u8?proxy=true
+靖天卡通台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv044/index.m3u8?proxy=true
+靖洋卡通Nice Bingo,http://mianti.pendy.dpdns.org/li-4gtv-4gtv057/index.m3u8?proxy=true
+ELTV生活英語台,http://mianti.pendy.dpdns.org/of-litv-longturn20/index.m3u8?proxy=true
+龍華卡通台,http://mianti.pendy.dpdns.org/litv-longturn01/index.m3u8?proxy=true
+LiveABC互動英語頻道,http://4gtv.livednow.dpdns.org/4gtv-live030/index.m3u8
+達文西頻道,http://4gtv.livednow.dpdns.org/4gtv-4gtv018/index.m3u8
+ELTV生活英語台,http://4gtv.livednow.dpdns.org/litv-longturn20/index.m3u8
+Nick Jr. 兒童頻道,http://4gtv.livednow.dpdns.org/4gtv-live032/index.m3u8
+Nickelodeon,http://4gtv.livednow.dpdns.org/4gtv-live105/index.m3u8
+DreamWorks 夢工廠動畫,http://4gtv.livednow.dpdns.org/4gtv-live017/index.m3u8
+靖天卡通台,http://4gtv.livednow.dpdns.org/4gtv-4gtv044/index.m3u8
+靖洋卡通Nice Bingo,http://4gtv.livednow.dpdns.org/4gtv-4gtv057/index.m3u8
+MOMO親子台,http://4gtv.livednow.dpdns.org/4gtv-live107/index.m3u8
+經典卡通台,http://4gtv.livednow.dpdns.org/4gtv-live022/index.m3u8
+精選動漫台,http://4gtv.livednow.dpdns.org/4gtv-live024/index.m3u8
+龍華卡通台,http://4gtv.livednow.dpdns.org/li-litv-longturn01/index.m3u8
+達文西頻道,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv018/index.m3u8
+ELTV生活英語台,http://4gtv.livednow.dpdns.org/li-litv-longturn20/index.m3u8
+靖天卡通台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv044/index.m3u8
+靖洋卡通Nice Bingo,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv057/index.m3u8
+ELTV生活英語台,http://4gtv.livednow.dpdns.org/of-litv-longturn20/index.m3u8
+龍華卡通台,http://4gtv.livednow.dpdns.org/litv-longturn01/index.m3u8
+新聞財經,#genre#
+鏡電視新聞台,http://mianti.pendy.dpdns.org/4gtv-4gtv075/index.m3u8?proxy=true
+東森新聞台,http://mianti.pendy.dpdns.org/4gtv-4gtv152/index.m3u8?proxy=true
+華視新聞,http://mianti.pendy.dpdns.org/4gtv-4gtv052/index.m3u8?proxy=true
+民視新聞台,http://mianti.pendy.dpdns.org/litv-ftv13/index.m3u8?proxy=true
+三立新聞iNEWS,http://mianti.pendy.dpdns.org/4gtv-live089/index.m3u8?proxy=true
+東森財經新聞台,http://mianti.pendy.dpdns.org/4gtv-4gtv153/index.m3u8?proxy=true
+中視新聞台,http://mianti.pendy.dpdns.org/4gtv-4gtv074/index.m3u8?proxy=true
+中天新聞台,http://mianti.pendy.dpdns.org/4gtv-4gtv009/index.m3u8?proxy=true
+Bloomberg TV,http://mianti.pendy.dpdns.org/4gtv-live059/index.m3u8?proxy=true
+寰宇新聞台,http://mianti.pendy.dpdns.org/litv-longturn14/index.m3u8?proxy=true
+寰宇新聞台灣台,http://mianti.pendy.dpdns.org/4gtv-4gtv156/index.m3u8?proxy=true
+SBN全球財經台,http://mianti.pendy.dpdns.org/4gtv-live060/index.m3u8?proxy=true
+寰宇財經台,http://mianti.pendy.dpdns.org/4gtv-4gtv158/index.m3u8?proxy=true
+FRANCE24 英文台,http://mianti.pendy.dpdns.org/4gtv-live146/index.m3u8?proxy=true
+半島國際新聞台,http://mianti.pendy.dpdns.org/litv-ftv10/index.m3u8?proxy=true
+VOA美國之音,http://mianti.pendy.dpdns.org/litv-ftv03/index.m3u8?proxy=true
+CNBC Asia 財經台,http://mianti.pendy.dpdns.org/4gtv-live130/index.m3u8?proxy=true
+DW德國之聲,http://mianti.pendy.dpdns.org/4gtv-live071/index.m3u8?proxy=true
+華視新聞,http://mianti.pendy.dpdns.org/li-4gtv-4gtv052/index.m3u8?proxy=true
+非凡新聞台,http://mianti.pendy.dpdns.org/4gtv-4gtv010/index.m3u8?proxy=true
+非凡商業台,http://mianti.pendy.dpdns.org/4gtv-4gtv048/index.m3u8?proxy=true
+台視財經台,http://mianti.pendy.dpdns.org/4gtv-4gtv056/index.m3u8?proxy=true
+鏡電視新聞台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv075/index.m3u8?proxy=true
+東森新聞台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv152/index.m3u8?proxy=true
+民視新聞台,http://mianti.pendy.dpdns.org/li-litv-ftv13/index.m3u8?proxy=true
+TVBS新聞,http://mianti.pendy.dpdns.org/li-4gtv-4gtv072/index.m3u8?proxy=true
+東森財經新聞台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv153/index.m3u8?proxy=true
+中視新聞台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv074/index.m3u8?proxy=true
+中天新聞台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv009/index.m3u8?proxy=true
+寰宇新聞台,http://mianti.pendy.dpdns.org/li-litv-longturn14/index.m3u8?proxy=true
+寰宇新聞台灣台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv156/index.m3u8?proxy=true
+寰宇財經台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv158/index.m3u8?proxy=true
+半島國際新聞台,http://mianti.pendy.dpdns.org/li-litv-ftv10/index.m3u8?proxy=true
+VOA美國之音,http://mianti.pendy.dpdns.org/li-litv-ftv03/index.m3u8?proxy=true
+台視新聞台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv051/index.m3u8?proxy=true
+第1商業台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv104/index.m3u8?proxy=true
+台視新聞台,http://mianti.pendy.dpdns.org/4gtv-4gtv051/index.m3u8?proxy=true
+中視新聞台,http://mianti.pendy.dpdns.org/of-4gtv-4gtv074/index.m3u8?proxy=true
+華視新聞,http://mianti.pendy.dpdns.org/of-4gtv-4gtv052/index.m3u8?proxy=true
+中天新聞台,http://mianti.pendy.dpdns.org/of-4gtv-4gtv009/index.m3u8?proxy=true
+寰宇新聞台,http://mianti.pendy.dpdns.org/of-litv-longturn14/index.m3u8?proxy=true
+寰宇新聞台灣台,http://mianti.pendy.dpdns.org/of-4gtv-4gtv156/index.m3u8?proxy=true
+寰宇財經台,http://mianti.pendy.dpdns.org/of-4gtv-4gtv158/index.m3u8?proxy=true
+第1商業台,http://mianti.pendy.dpdns.org/4gtv-4gtv104/index.m3u8?proxy=true
+三立新聞iNEWS,http://mianti.pendy.dpdns.org/iNEWS/index.m3u8?proxy=true
+倪珍播新聞,http://mianti.pendy.dpdns.org/nnews-zh/index.m3u8?proxy=true
+倪珍越語新聞,http://mianti.pendy.dpdns.org/nnews-vn/index.m3u8?proxy=true
+倪珍報氣象,http://mianti.pendy.dpdns.org/nnews-wf/index.m3u8?proxy=true
+鏡電視新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv075/index.m3u8
+東森新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv152/index.m3u8
+華視新聞,http://4gtv.livednow.dpdns.org/4gtv-4gtv052/index.m3u8
+民視新聞台,http://4gtv.livednow.dpdns.org/litv-ftv13/index.m3u8
+三立新聞iNEWS,http://4gtv.livednow.dpdns.org/4gtv-live089/index.m3u8
+東森財經新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv153/index.m3u8
+中視新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv074/index.m3u8
+中天新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv009/index.m3u8
+Bloomberg TV,http://4gtv.livednow.dpdns.org/4gtv-live059/index.m3u8
+寰宇新聞台,http://4gtv.livednow.dpdns.org/litv-longturn14/index.m3u8
+寰宇新聞台灣台,http://4gtv.livednow.dpdns.org/4gtv-4gtv156/index.m3u8
+SBN全球財經台,http://4gtv.livednow.dpdns.org/4gtv-live060/index.m3u8
+寰宇財經台,http://4gtv.livednow.dpdns.org/4gtv-4gtv158/index.m3u8
+FRANCE24 英文台,http://4gtv.livednow.dpdns.org/4gtv-live146/index.m3u8
+半島國際新聞台,http://4gtv.livednow.dpdns.org/litv-ftv10/index.m3u8
+VOA美國之音,http://4gtv.livednow.dpdns.org/litv-ftv03/index.m3u8
+CNBC Asia 財經台,http://4gtv.livednow.dpdns.org/4gtv-live130/index.m3u8
+DW德國之聲,http://4gtv.livednow.dpdns.org/4gtv-live071/index.m3u8
+華視新聞,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv052/index.m3u8
+非凡新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv010/index.m3u8
+非凡商業台,http://4gtv.livednow.dpdns.org/4gtv-4gtv048/index.m3u8
+台視財經台,http://4gtv.livednow.dpdns.org/4gtv-4gtv056/index.m3u8
+鏡電視新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv075/index.m3u8
+東森新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv152/index.m3u8
+民視新聞台,http://4gtv.livednow.dpdns.org/li-litv-ftv13/index.m3u8
+TVBS新聞,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
+東森財經新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv153/index.m3u8
+中視新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv074/index.m3u8
+中天新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv009/index.m3u8
+寰宇新聞台,http://4gtv.livednow.dpdns.org/li-litv-longturn14/index.m3u8
+寰宇新聞台灣台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv156/index.m3u8
+寰宇財經台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv158/index.m3u8
+半島國際新聞台,http://4gtv.livednow.dpdns.org/li-litv-ftv10/index.m3u8
+VOA美國之音,http://4gtv.livednow.dpdns.org/li-litv-ftv03/index.m3u8
+台視新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv051/index.m3u8
+第1商業台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv104/index.m3u8
+台視新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv051/index.m3u8
+中視新聞台,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv074/index.m3u8
+華視新聞,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv052/index.m3u8
+中天新聞台,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv009/index.m3u8
+寰宇新聞台,http://4gtv.livednow.dpdns.org/of-litv-longturn14/index.m3u8
+寰宇新聞台灣台,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv156/index.m3u8
+寰宇財經台,http://4gtv.livednow.dpdns.org/of-4gtv-4gtv158/index.m3u8
+第1商業台,http://4gtv.livednow.dpdns.org/4gtv-4gtv104/index.m3u8
+三立新聞iNEWS,http://4gtv.livednow.dpdns.org/iNEWS/index.m3u8
+倪珍播新聞,http://4gtv.livednow.dpdns.org/nnews-zh/index.m3u8
+倪珍越語新聞,http://4gtv.livednow.dpdns.org/nnews-vn/index.m3u8
+倪珍報氣象,http://4gtv.livednow.dpdns.org/nnews-wf/index.m3u8
+體育競技,#genre#
+TRACE Sport Stars,http://mianti.pendy.dpdns.org/4gtv-4gtv077/index.m3u8?proxy=true
+智林體育台,http://mianti.pendy.dpdns.org/4gtv-4gtv101/index.m3u8?proxy=true
+時尚運動X,http://mianti.pendy.dpdns.org/4gtv-4gtv014/index.m3u8?proxy=true
+車迷TV,http://mianti.pendy.dpdns.org/4gtv-live201/index.m3u8?proxy=true
+Ginx TV 電競頻道,http://mianti.pendy.dpdns.org/4gtv-4gtv053/index.m3u8?proxy=true
+博斯魅力台,http://mianti.pendy.dpdns.org/litv-longturn04/index.m3u8?proxy=true
+博斯高球台,http://mianti.pendy.dpdns.org/litv-longturn05/index.m3u8?proxy=true
+博斯高球二台,http://mianti.pendy.dpdns.org/litv-longturn06/index.m3u8?proxy=true
+博斯運動一台,http://mianti.pendy.dpdns.org/litv-longturn07/index.m3u8?proxy=true
+博斯運動二台,http://mianti.pendy.dpdns.org/litv-longturn08/index.m3u8?proxy=true
+博斯網球台,http://mianti.pendy.dpdns.org/litv-longturn09/index.m3u8?proxy=true
+博斯無限台,http://mianti.pendy.dpdns.org/litv-longturn10/index.m3u8?proxy=true
+博斯無限二台,http://mianti.pendy.dpdns.org/litv-longturn13/index.m3u8?proxy=true
+TRACE Sport Stars,http://mianti.pendy.dpdns.org/li-4gtv-4gtv077/index.m3u8?proxy=true
+智林體育台,http://mianti.pendy.dpdns.org/li-4gtv-4gtv101/index.m3u8?proxy=true
+時尚運動X,http://mianti.pendy.dpdns.org/li-4gtv-4gtv014/index.m3u8?proxy=true
+Ginx TV 電競頻道,http://mianti.pendy.dpdns.org/li-4gtv-4gtv053/index.m3u8?proxy=true
+TRACE Sport Stars,http://4gtv.livednow.dpdns.org/4gtv-4gtv077/index.m3u8
+智林體育台,http://4gtv.livednow.dpdns.org/4gtv-4gtv101/index.m3u8
+時尚運動X,http://4gtv.livednow.dpdns.org/4gtv-4gtv014/index.m3u8
+車迷TV,http://4gtv.livednow.dpdns.org/4gtv-live201/index.m3u8
+Ginx TV 電競頻道,http://4gtv.livednow.dpdns.org/4gtv-4gtv053/index.m3u8
+博斯魅力台,http://4gtv.livednow.dpdns.org/litv-longturn04/index.m3u8
+博斯高球台,http://4gtv.livednow.dpdns.org/litv-longturn05/index.m3u8
+博斯高球二台,http://4gtv.livednow.dpdns.org/litv-longturn06/index.m3u8
+博斯運動一台,http://4gtv.livednow.dpdns.org/litv-longturn07/index.m3u8
+博斯運動二台,http://4gtv.livednow.dpdns.org/litv-longturn08/index.m3u8
+博斯網球台,http://4gtv.livednow.dpdns.org/litv-longturn09/index.m3u8
+博斯無限台,http://4gtv.livednow.dpdns.org/litv-longturn10/index.m3u8
+博斯無限二台,http://4gtv.livednow.dpdns.org/litv-longturn13/index.m3u8
+TRACE Sport Stars,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv077/index.m3u8
+智林體育台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv101/index.m3u8
+時尚運動X,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv014/index.m3u8
+Ginx TV 電競頻道,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv053/index.m3u8
+紀實探索,#genre#
+History 歷史頻道,http://mianti.pendy.dpdns.org/4gtv-live026/index.m3u8?proxy=true
+CI 罪案偵查頻道,http://mianti.pendy.dpdns.org/4gtv-live027/index.m3u8?proxy=true
+視納華仁紀實頻道,http://mianti.pendy.dpdns.org/4gtv-4gtv013/index.m3u8?proxy=true
+影迷數位紀實台,http://mianti.pendy.dpdns.org/litv-ftv15/index.m3u8?proxy=true
+視納華仁紀實頻道,http://mianti.pendy.dpdns.org/li-4gtv-4gtv013/index.m3u8?proxy=true
+影迷數位紀實台,http://mianti.pendy.dpdns.org/li-litv-ftv15/index.m3u8?proxy=true
+History 歷史頻道,http://4gtv.livednow.dpdns.org/4gtv-live026/index.m3u8
+CI 罪案偵查頻道,http://4gtv.livednow.dpdns.org/4gtv-live027/index.m3u8
+視納華仁紀實頻道,http://4gtv.livednow.dpdns.org/4gtv-4gtv013/index.m3u8
+影迷數位紀實台,http://4gtv.livednow.dpdns.org/litv-ftv15/index.m3u8
+視納華仁紀實頻道,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv013/index.m3u8
+影迷數位紀實台,http://4gtv.livednow.dpdns.org/li-litv-ftv15/index.m3u8
+歐飛點播,#genre#
+公視金獎台,http://mianti.pendy.dpdns.org/ofiii13/index.m3u8?proxy=true
+哆啦Ａ夢台,http://mianti.pendy.dpdns.org/ofiii22/index.m3u8?proxy=true
+新哆啦A夢(中文版),http://mianti.pendy.dpdns.org/ofiii23/index.m3u8?proxy=true
+TVBS食尚玩家,http://mianti.pendy.dpdns.org/ofiii31/index.m3u8?proxy=true
+東森娛樂台,http://mianti.pendy.dpdns.org/ofiii32/index.m3u8?proxy=true
+中天亞洲精采台,http://mianti.pendy.dpdns.org/ofiii36/index.m3u8?proxy=true
+經典劇場,http://mianti.pendy.dpdns.org/ofiii38/index.m3u8?proxy=true
+Yes娛樂,http://mianti.pendy.dpdns.org/ofiii47/index.m3u8?proxy=true
+Focus風采戲劇台,http://mianti.pendy.dpdns.org/ofiii1048/index.m3u8?proxy=true
+掏掏新聞,http://mianti.pendy.dpdns.org/ofiii50/index.m3u8?proxy=true
+柯文哲政治風波,http://mianti.pendy.dpdns.org/ofiii51/index.m3u8?proxy=true
+國際大小事,http://mianti.pendy.dpdns.org/ofiii55/index.m3u8?proxy=true
+全國大罷免,http://mianti.pendy.dpdns.org/ofiii56/index.m3u8?proxy=true
+第1財經,http://mianti.pendy.dpdns.org/ofiii64/index.m3u8?proxy=true
+Golden 強片台,http://mianti.pendy.dpdns.org/ofiii70/index.m3u8?proxy=true
+周星馳台,http://mianti.pendy.dpdns.org/ofiii73/index.m3u8?proxy=true
+歐飛電影台,http://mianti.pendy.dpdns.org/ofiii74/index.m3u8?proxy=true
+歐飛動作電影台,http://mianti.pendy.dpdns.org/ofiii75/index.m3u8?proxy=true
+Focus探索新知台,http://mianti.pendy.dpdns.org/ofiii82/index.m3u8?proxy=true
+鄉民大學問,http://mianti.pendy.dpdns.org/ofiii83/index.m3u8?proxy=true
+野球名人房,http://mianti.pendy.dpdns.org/ofiii84/index.m3u8?proxy=true
+社會NOW什麼,http://mianti.pendy.dpdns.org/ofiii85/index.m3u8?proxy=true
+啦啦隊獨家專訪,http://mianti.pendy.dpdns.org/ofiii88/index.m3u8?proxy=true
+泰可愛旋風,http://mianti.pendy.dpdns.org/ofiii89/index.m3u8?proxy=true
+演唱會直擊,http://mianti.pendy.dpdns.org/ofiii91/index.m3u8?proxy=true
+健康問良醫,http://mianti.pendy.dpdns.org/ofiii92/index.m3u8?proxy=true
+ASMR行車紀錄,http://mianti.pendy.dpdns.org/ofiii94/index.m3u8?proxy=true
+Freeman @台灣,http://mianti.pendy.dpdns.org/ofiii95/index.m3u8?proxy=true
+饕客揪愛吃,http://mianti.pendy.dpdns.org/ofiii96/index.m3u8?proxy=true
+人氣動漫預告,http://mianti.pendy.dpdns.org/ofiii97/index.m3u8?proxy=true
+銀髮聚樂部,http://mianti.pendy.dpdns.org/ofiii99/index.m3u8?proxy=true
+錦繡安寧,http://mianti.pendy.dpdns.org/ofiii100/index.m3u8?proxy=true
+琅琊榜,http://mianti.pendy.dpdns.org/ofiii101/index.m3u8?proxy=true
+扶搖,http://mianti.pendy.dpdns.org/ofiii102/index.m3u8?proxy=true
+三國,http://mianti.pendy.dpdns.org/ofiii103/index.m3u8?proxy=true
+武媚娘傳奇,http://mianti.pendy.dpdns.org/ofiii104/index.m3u8?proxy=true
+長樂曲,http://mianti.pendy.dpdns.org/ofiii105/index.m3u8?proxy=true
+軍師聯盟,http://mianti.pendy.dpdns.org/ofiii106/index.m3u8?proxy=true
+軍師聯盟2 虎嘯龍吟,http://mianti.pendy.dpdns.org/ofiii107/index.m3u8?proxy=true
+東宮(完整版),http://mianti.pendy.dpdns.org/ofiii108/index.m3u8?proxy=true
+國色芳華,http://mianti.pendy.dpdns.org/ofiii109/index.m3u8?proxy=true
+楚喬傳,http://mianti.pendy.dpdns.org/ofiii110/index.m3u8?proxy=true
+倚天屠龍記 2019,http://mianti.pendy.dpdns.org/ofiii111/index.m3u8?proxy=true
+披荊斬棘的大小姐,http://mianti.pendy.dpdns.org/ofiii112/index.m3u8?proxy=true
+步步驚心,http://mianti.pendy.dpdns.org/ofiii113/index.m3u8?proxy=true
+九重紫,http://mianti.pendy.dpdns.org/ofiii114/index.m3u8?proxy=true
+私藏浪漫,http://mianti.pendy.dpdns.org/ofiii115/index.m3u8?proxy=true
+去有風的地方,http://mianti.pendy.dpdns.org/ofiii116/index.m3u8?proxy=true
+以愛為營,http://mianti.pendy.dpdns.org/ofiii117/index.m3u8?proxy=true
+向風而行,http://mianti.pendy.dpdns.org/ofiii118/index.m3u8?proxy=true
+以家人之名,http://mianti.pendy.dpdns.org/ofiii119/index.m3u8?proxy=true
+獵狐,http://mianti.pendy.dpdns.org/ofiii120/index.m3u8?proxy=true
+好運家,http://mianti.pendy.dpdns.org/ofiii121/index.m3u8?proxy=true
+請叫我總監,http://mianti.pendy.dpdns.org/ofiii122/index.m3u8?proxy=true
+司藤,http://mianti.pendy.dpdns.org/ofiii123/index.m3u8?proxy=true
+月嫂先生,http://mianti.pendy.dpdns.org/ofiii124/index.m3u8?proxy=true
+豬哥壹級棒,http://mianti.pendy.dpdns.org/ofiii126/index.m3u8?proxy=true
+醫師好辣,http://mianti.pendy.dpdns.org/ofiii128/index.m3u8?proxy=true
+WTO姐妹會,http://mianti.pendy.dpdns.org/ofiii129/index.m3u8?proxy=true
+綜藝玩很大,http://mianti.pendy.dpdns.org/ofiii130/index.m3u8?proxy=true
+全民星攻略,http://mianti.pendy.dpdns.org/ofiii131/index.m3u8?proxy=true
+健康2.0,http://mianti.pendy.dpdns.org/ofiii132/index.m3u8?proxy=true
+台灣啟示錄,http://mianti.pendy.dpdns.org/ofiii133/index.m3u8?proxy=true
+法眼黑與白,http://mianti.pendy.dpdns.org/ofiii134/index.m3u8?proxy=true
+天才衝衝衝,http://mianti.pendy.dpdns.org/ofiii135/index.m3u8?proxy=true
+一步一腳印 發現新台灣,http://mianti.pendy.dpdns.org/ofiii136/index.m3u8?proxy=true
+女人我最大,http://mianti.pendy.dpdns.org/ofiii137/index.m3u8?proxy=true
+看板人物,http://mianti.pendy.dpdns.org/ofiii138/index.m3u8?proxy=true
+威廉沈歡樂送,http://mianti.pendy.dpdns.org/ofiii139/index.m3u8?proxy=true
+木曜4超玩 一日系列,http://mianti.pendy.dpdns.org/ofiii140/index.m3u8?proxy=true
+一字千金,http://mianti.pendy.dpdns.org/ofiii142/index.m3u8?proxy=true
+11點熱吵店,http://mianti.pendy.dpdns.org/ofiii143/index.m3u8?proxy=true
+回到20歲,http://mianti.pendy.dpdns.org/ofiii145/index.m3u8?proxy=true
+白雪公主非死不可,http://mianti.pendy.dpdns.org/ofiii146/index.m3u8?proxy=true
+好搭檔,http://mianti.pendy.dpdns.org/ofiii147/index.m3u8?proxy=true
+頭腦共助,http://mianti.pendy.dpdns.org/ofiii148/index.m3u8?proxy=true
+凌晨兩點的灰姑娘,http://mianti.pendy.dpdns.org/ofiii149/index.m3u8?proxy=true
+台灣靈異事件,http://mianti.pendy.dpdns.org/ofiii150/index.m3u8?proxy=true
+包青天 1993版,http://mianti.pendy.dpdns.org/ofiii151/index.m3u8?proxy=true
+我的婆婆怎麼那麼可愛,http://mianti.pendy.dpdns.org/ofiii152/index.m3u8?proxy=true
+村裡來了個暴走女外科,http://mianti.pendy.dpdns.org/ofiii153/index.m3u8?proxy=true
+一把青,http://mianti.pendy.dpdns.org/ofiii154/index.m3u8?proxy=true
+茶金,http://mianti.pendy.dpdns.org/ofiii155/index.m3u8?proxy=true
+苦力,http://mianti.pendy.dpdns.org/ofiii156/index.m3u8?proxy=true
+俗女養成記,http://mianti.pendy.dpdns.org/ofiii157/index.m3u8?proxy=true
+麻醉風暴,http://mianti.pendy.dpdns.org/ofiii158/index.m3u8?proxy=true
+雖然等級只有1級但固有技能是最強的,http://mianti.pendy.dpdns.org/ofiii159/index.m3u8?proxy=true
+擁有超常技能的異世界流浪美食家,http://mianti.pendy.dpdns.org/ofiii160/index.m3u8?proxy=true
+WIND BREAKER—防風少年—,http://mianti.pendy.dpdns.org/ofiii161/index.m3u8?proxy=true
+在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～,http://mianti.pendy.dpdns.org/ofiii162/index.m3u8?proxy=true
+第一神拳,http://mianti.pendy.dpdns.org/ofiii163/index.m3u8?proxy=true
+刀劍神域(中文版),http://mianti.pendy.dpdns.org/ofiii164/index.m3u8?proxy=true
+蠟筆小新(中文版),http://mianti.pendy.dpdns.org/ofiii165/index.m3u8?proxy=true
+我們這一家,http://mianti.pendy.dpdns.org/ofiii166/index.m3u8?proxy=true
+獵人(中文版),http://mianti.pendy.dpdns.org/ofiii167/index.m3u8?proxy=true
+中華一番(中文版),http://mianti.pendy.dpdns.org/ofiii168/index.m3u8?proxy=true
+隊長小翼(中文版),http://mianti.pendy.dpdns.org/ofiii169/index.m3u8?proxy=true
+SPY X FAMILY 間諜家家酒,http://mianti.pendy.dpdns.org/ofiii170/index.m3u8?proxy=true
+SPY X FAMILY 間諜家家酒(中文版),http://mianti.pendy.dpdns.org/ofiii171/index.m3u8?proxy=true
+無職轉生，到了異世界就拿出真本事,http://mianti.pendy.dpdns.org/ofiii172/index.m3u8?proxy=true
+關於我轉生變成史萊姆這檔事(國),http://mianti.pendy.dpdns.org/ofiii173/index.m3u8?proxy=true
+夏目友人帳,http://mianti.pendy.dpdns.org/ofiii174/index.m3u8?proxy=true
+家庭教師HITMAN REBORN!(中文版),http://mianti.pendy.dpdns.org/ofiii175/index.m3u8?proxy=true
+烘焙王(中文版),http://mianti.pendy.dpdns.org/ofiii176/index.m3u8?proxy=true
+鋼之鍊金術師,http://mianti.pendy.dpdns.org/ofiii177/index.m3u8?proxy=true
+JOJO 的奇妙冒險,http://mianti.pendy.dpdns.org/ofiii178/index.m3u8?proxy=true
+葬送的芙莉蓮,http://mianti.pendy.dpdns.org/ofiii179/index.m3u8?proxy=true
+史上最強弟子兼一(中文版),http://mianti.pendy.dpdns.org/ofiii180/index.m3u8?proxy=true
+爆漫王(中文版),http://mianti.pendy.dpdns.org/ofiii181/index.m3u8?proxy=true
+忍者亂太郎(中文版),http://mianti.pendy.dpdns.org/ofiii182/index.m3u8?proxy=true
+膽大黨,http://mianti.pendy.dpdns.org/ofiii183/index.m3u8?proxy=true
+新忍者哈特利,http://mianti.pendy.dpdns.org/ofiii184/index.m3u8?proxy=true
+生命的贏家,http://mianti.pendy.dpdns.org/ofiii192/index.m3u8?proxy=true
+海派甜心,http://mianti.pendy.dpdns.org/ofiii195/index.m3u8?proxy=true
+不良笑花,http://mianti.pendy.dpdns.org/ofiii196/index.m3u8?proxy=true
+戰神,http://mianti.pendy.dpdns.org/ofiii197/index.m3u8?proxy=true
+大新聞大爆卦,http://mianti.pendy.dpdns.org/ofiii201/index.m3u8?proxy=true
+新聞大白話,http://mianti.pendy.dpdns.org/ofiii202/index.m3u8?proxy=true
+文茜的世界周報,http://mianti.pendy.dpdns.org/ofiii203/index.m3u8?proxy=true
+寰宇全視界,http://mianti.pendy.dpdns.org/ofiii204/index.m3u8?proxy=true
+文茜的世界財經周報,http://mianti.pendy.dpdns.org/ofiii205/index.m3u8?proxy=true
+環球大戰線,http://mianti.pendy.dpdns.org/ofiii206/index.m3u8?proxy=true
+少康戰情室,http://mianti.pendy.dpdns.org/ofiii207/index.m3u8?proxy=true
+國民大會,http://mianti.pendy.dpdns.org/ofiii208/index.m3u8?proxy=true
+電動車時代,http://mianti.pendy.dpdns.org/ofiii215/index.m3u8?proxy=true
+SiCAR愛車酷,http://mianti.pendy.dpdns.org/ofiii216/index.m3u8?proxy=true
+狂人日誌,http://mianti.pendy.dpdns.org/ofiii217/index.m3u8?proxy=true
+脖子解說 Mr. Neck,http://mianti.pendy.dpdns.org/ofiii218/index.m3u8?proxy=true
+食尚玩家-Hello腹餓代,http://mianti.pendy.dpdns.org/ofiii225/index.m3u8?proxy=true
+食尚玩家-天菜就醬吃,http://mianti.pendy.dpdns.org/ofiii226/index.m3u8?proxy=true
+食尚玩家-2天1夜go,http://mianti.pendy.dpdns.org/ofiii227/index.m3u8?proxy=true
+食尚玩家-熱血48小時,http://mianti.pendy.dpdns.org/ofiii228/index.m3u8?proxy=true
+食尚玩家-魚肉鄉民,http://mianti.pendy.dpdns.org/ofiii229/index.m3u8?proxy=true
+食尚玩家-瘋狂總部,http://mianti.pendy.dpdns.org/ofiii230/index.m3u8?proxy=true
+非凡大探索,http://mianti.pendy.dpdns.org/ofiii234/index.m3u8?proxy=true
+台灣1001個故事,http://mianti.pendy.dpdns.org/ofiii235/index.m3u8?proxy=true
+詹姆士出走料理,http://mianti.pendy.dpdns.org/ofiii236/index.m3u8?proxy=true
+進擊的台灣,http://mianti.pendy.dpdns.org/ofiii237/index.m3u8?proxy=true
+世界第一等,http://mianti.pendy.dpdns.org/ofiii238/index.m3u8?proxy=true
+台灣第一等,http://mianti.pendy.dpdns.org/ofiii239/index.m3u8?proxy=true
+溢遊未盡,http://mianti.pendy.dpdns.org/ofiii240/index.m3u8?proxy=true
+台灣真善美,http://mianti.pendy.dpdns.org/ofiii241/index.m3u8?proxy=true
+請問今晚住誰家,http://mianti.pendy.dpdns.org/ofiii242/index.m3u8?proxy=true
+早餐中國,http://mianti.pendy.dpdns.org/ofiii243/index.m3u8?proxy=true
+溢起趣打卡,http://mianti.pendy.dpdns.org/ofiii244/index.m3u8?proxy=true
+台灣壹百種味道,http://mianti.pendy.dpdns.org/ofiii245/index.m3u8?proxy=true
+紓壓雷雨聲,http://mianti.pendy.dpdns.org/ofiii250/index.m3u8?proxy=true
+療癒下雨聲,http://mianti.pendy.dpdns.org/ofiii251/index.m3u8?proxy=true
+放鬆的爵士午後,http://mianti.pendy.dpdns.org/ofiii252/index.m3u8?proxy=true
+外燒柴火聲,http://mianti.pendy.dpdns.org/ofiii253/index.m3u8?proxy=true
+夏日陽光海浪聲,http://mianti.pendy.dpdns.org/ofiii254/index.m3u8?proxy=true
+公視金獎台,http://4gtv.livednow.dpdns.org/ofiii13/index.m3u8
+哆啦Ａ夢台,http://4gtv.livednow.dpdns.org/ofiii22/index.m3u8
+新哆啦A夢(中文版),http://4gtv.livednow.dpdns.org/ofiii23/index.m3u8
+TVBS食尚玩家,http://4gtv.livednow.dpdns.org/ofiii31/index.m3u8
+東森娛樂台,http://4gtv.livednow.dpdns.org/ofiii32/index.m3u8
+中天亞洲精采台,http://4gtv.livednow.dpdns.org/ofiii36/index.m3u8
+經典劇場,http://4gtv.livednow.dpdns.org/ofiii38/index.m3u8
+Yes娛樂,http://4gtv.livednow.dpdns.org/ofiii47/index.m3u8
+Focus風采戲劇台,http://4gtv.livednow.dpdns.org/ofiii1048/index.m3u8
+掏掏新聞,http://4gtv.livednow.dpdns.org/ofiii50/index.m3u8
+柯文哲政治風波,http://4gtv.livednow.dpdns.org/ofiii51/index.m3u8
+國際大小事,http://4gtv.livednow.dpdns.org/ofiii55/index.m3u8
+全國大罷免,http://4gtv.livednow.dpdns.org/ofiii56/index.m3u8
+第1財經,http://4gtv.livednow.dpdns.org/ofiii64/index.m3u8
+Golden 強片台,http://4gtv.livednow.dpdns.org/ofiii70/index.m3u8
+周星馳台,http://4gtv.livednow.dpdns.org/ofiii73/index.m3u8
+歐飛電影台,http://4gtv.livednow.dpdns.org/ofiii74/index.m3u8
+歐飛動作電影台,http://4gtv.livednow.dpdns.org/ofiii75/index.m3u8
+Focus探索新知台,http://4gtv.livednow.dpdns.org/ofiii82/index.m3u8
+鄉民大學問,http://4gtv.livednow.dpdns.org/ofiii83/index.m3u8
+野球名人房,http://4gtv.livednow.dpdns.org/ofiii84/index.m3u8
+社會NOW什麼,http://4gtv.livednow.dpdns.org/ofiii85/index.m3u8
+啦啦隊獨家專訪,http://4gtv.livednow.dpdns.org/ofiii88/index.m3u8
+泰可愛旋風,http://4gtv.livednow.dpdns.org/ofiii89/index.m3u8
+演唱會直擊,http://4gtv.livednow.dpdns.org/ofiii91/index.m3u8
+健康問良醫,http://4gtv.livednow.dpdns.org/ofiii92/index.m3u8
+ASMR行車紀錄,http://4gtv.livednow.dpdns.org/ofiii94/index.m3u8
+Freeman @台灣,http://4gtv.livednow.dpdns.org/ofiii95/index.m3u8
+饕客揪愛吃,http://4gtv.livednow.dpdns.org/ofiii96/index.m3u8
+人氣動漫預告,http://4gtv.livednow.dpdns.org/ofiii97/index.m3u8
+銀髮聚樂部,http://4gtv.livednow.dpdns.org/ofiii99/index.m3u8
+錦繡安寧,http://4gtv.livednow.dpdns.org/ofiii100/index.m3u8
+琅琊榜,http://4gtv.livednow.dpdns.org/ofiii101/index.m3u8
+扶搖,http://4gtv.livednow.dpdns.org/ofiii102/index.m3u8
+三國,http://4gtv.livednow.dpdns.org/ofiii103/index.m3u8
+武媚娘傳奇,http://4gtv.livednow.dpdns.org/ofiii104/index.m3u8
+長樂曲,http://4gtv.livednow.dpdns.org/ofiii105/index.m3u8
+軍師聯盟,http://4gtv.livednow.dpdns.org/ofiii106/index.m3u8
+軍師聯盟2 虎嘯龍吟,http://4gtv.livednow.dpdns.org/ofiii107/index.m3u8
+東宮(完整版),http://4gtv.livednow.dpdns.org/ofiii108/index.m3u8
+國色芳華,http://4gtv.livednow.dpdns.org/ofiii109/index.m3u8
+楚喬傳,http://4gtv.livednow.dpdns.org/ofiii110/index.m3u8
+倚天屠龍記 2019,http://4gtv.livednow.dpdns.org/ofiii111/index.m3u8
+披荊斬棘的大小姐,http://4gtv.livednow.dpdns.org/ofiii112/index.m3u8
+步步驚心,http://4gtv.livednow.dpdns.org/ofiii113/index.m3u8
+九重紫,http://4gtv.livednow.dpdns.org/ofiii114/index.m3u8
+私藏浪漫,http://4gtv.livednow.dpdns.org/ofiii115/index.m3u8
+去有風的地方,http://4gtv.livednow.dpdns.org/ofiii116/index.m3u8
+以愛為營,http://4gtv.livednow.dpdns.org/ofiii117/index.m3u8
+向風而行,http://4gtv.livednow.dpdns.org/ofiii118/index.m3u8
+以家人之名,http://4gtv.livednow.dpdns.org/ofiii119/index.m3u8
+獵狐,http://4gtv.livednow.dpdns.org/ofiii120/index.m3u8
+好運家,http://4gtv.livednow.dpdns.org/ofiii121/index.m3u8
+請叫我總監,http://4gtv.livednow.dpdns.org/ofiii122/index.m3u8
+司藤,http://4gtv.livednow.dpdns.org/ofiii123/index.m3u8
+月嫂先生,http://4gtv.livednow.dpdns.org/ofiii124/index.m3u8
+豬哥壹級棒,http://4gtv.livednow.dpdns.org/ofiii126/index.m3u8
+醫師好辣,http://4gtv.livednow.dpdns.org/ofiii128/index.m3u8
+WTO姐妹會,http://4gtv.livednow.dpdns.org/ofiii129/index.m3u8
+綜藝玩很大,http://4gtv.livednow.dpdns.org/ofiii130/index.m3u8
+全民星攻略,http://4gtv.livednow.dpdns.org/ofiii131/index.m3u8
+健康2.0,http://4gtv.livednow.dpdns.org/ofiii132/index.m3u8
+台灣啟示錄,http://4gtv.livednow.dpdns.org/ofiii133/index.m3u8
+法眼黑與白,http://4gtv.livednow.dpdns.org/ofiii134/index.m3u8
+天才衝衝衝,http://4gtv.livednow.dpdns.org/ofiii135/index.m3u8
+一步一腳印 發現新台灣,http://4gtv.livednow.dpdns.org/ofiii136/index.m3u8
+女人我最大,http://4gtv.livednow.dpdns.org/ofiii137/index.m3u8
+看板人物,http://4gtv.livednow.dpdns.org/ofiii138/index.m3u8
+威廉沈歡樂送,http://4gtv.livednow.dpdns.org/ofiii139/index.m3u8
+木曜4超玩 一日系列,http://4gtv.livednow.dpdns.org/ofiii140/index.m3u8
+一字千金,http://4gtv.livednow.dpdns.org/ofiii142/index.m3u8
+11點熱吵店,http://4gtv.livednow.dpdns.org/ofiii143/index.m3u8
+回到20歲,http://4gtv.livednow.dpdns.org/ofiii145/index.m3u8
+白雪公主非死不可,http://4gtv.livednow.dpdns.org/ofiii146/index.m3u8
+好搭檔,http://4gtv.livednow.dpdns.org/ofiii147/index.m3u8
+頭腦共助,http://4gtv.livednow.dpdns.org/ofiii148/index.m3u8
+凌晨兩點的灰姑娘,http://4gtv.livednow.dpdns.org/ofiii149/index.m3u8
+台灣靈異事件,http://4gtv.livednow.dpdns.org/ofiii150/index.m3u8
+包青天 1993版,http://4gtv.livednow.dpdns.org/ofiii151/index.m3u8
+我的婆婆怎麼那麼可愛,http://4gtv.livednow.dpdns.org/ofiii152/index.m3u8
+村裡來了個暴走女外科,http://4gtv.livednow.dpdns.org/ofiii153/index.m3u8
+一把青,http://4gtv.livednow.dpdns.org/ofiii154/index.m3u8
+茶金,http://4gtv.livednow.dpdns.org/ofiii155/index.m3u8
+苦力,http://4gtv.livednow.dpdns.org/ofiii156/index.m3u8
+俗女養成記,http://4gtv.livednow.dpdns.org/ofiii157/index.m3u8
+麻醉風暴,http://4gtv.livednow.dpdns.org/ofiii158/index.m3u8
+雖然等級只有1級但固有技能是最強的,http://4gtv.livednow.dpdns.org/ofiii159/index.m3u8
+擁有超常技能的異世界流浪美食家,http://4gtv.livednow.dpdns.org/ofiii160/index.m3u8
+WIND BREAKER—防風少年—,http://4gtv.livednow.dpdns.org/ofiii161/index.m3u8
+在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～,http://4gtv.livednow.dpdns.org/ofiii162/index.m3u8
+第一神拳,http://4gtv.livednow.dpdns.org/ofiii163/index.m3u8
+刀劍神域(中文版),http://4gtv.livednow.dpdns.org/ofiii164/index.m3u8
+蠟筆小新(中文版),http://4gtv.livednow.dpdns.org/ofiii165/index.m3u8
+我們這一家,http://4gtv.livednow.dpdns.org/ofiii166/index.m3u8
+獵人(中文版),http://4gtv.livednow.dpdns.org/ofiii167/index.m3u8
+中華一番(中文版),http://4gtv.livednow.dpdns.org/ofiii168/index.m3u8
+隊長小翼(中文版),http://4gtv.livednow.dpdns.org/ofiii169/index.m3u8
+SPY X FAMILY 間諜家家酒,http://4gtv.livednow.dpdns.org/ofiii170/index.m3u8
+SPY X FAMILY 間諜家家酒(中文版),http://4gtv.livednow.dpdns.org/ofiii171/index.m3u8
+無職轉生，到了異世界就拿出真本事,http://4gtv.livednow.dpdns.org/ofiii172/index.m3u8
+關於我轉生變成史萊姆這檔事(國),http://4gtv.livednow.dpdns.org/ofiii173/index.m3u8
+夏目友人帳,http://4gtv.livednow.dpdns.org/ofiii174/index.m3u8
+家庭教師HITMAN REBORN!(中文版),http://4gtv.livednow.dpdns.org/ofiii175/index.m3u8
+烘焙王(中文版),http://4gtv.livednow.dpdns.org/ofiii176/index.m3u8
+鋼之鍊金術師,http://4gtv.livednow.dpdns.org/ofiii177/index.m3u8
+JOJO 的奇妙冒險,http://4gtv.livednow.dpdns.org/ofiii178/index.m3u8
+葬送的芙莉蓮,http://4gtv.livednow.dpdns.org/ofiii179/index.m3u8
+史上最強弟子兼一(中文版),http://4gtv.livednow.dpdns.org/ofiii180/index.m3u8
+爆漫王(中文版),http://4gtv.livednow.dpdns.org/ofiii181/index.m3u8
+忍者亂太郎(中文版),http://4gtv.livednow.dpdns.org/ofiii182/index.m3u8
+膽大黨,http://4gtv.livednow.dpdns.org/ofiii183/index.m3u8
+新忍者哈特利,http://4gtv.livednow.dpdns.org/ofiii184/index.m3u8
+生命的贏家,http://4gtv.livednow.dpdns.org/ofiii192/index.m3u8
+海派甜心,http://4gtv.livednow.dpdns.org/ofiii195/index.m3u8
+不良笑花,http://4gtv.livednow.dpdns.org/ofiii196/index.m3u8
+戰神,http://4gtv.livednow.dpdns.org/ofiii197/index.m3u8
+大新聞大爆卦,http://4gtv.livednow.dpdns.org/ofiii201/index.m3u8
+新聞大白話,http://4gtv.livednow.dpdns.org/ofiii202/index.m3u8
+文茜的世界周報,http://4gtv.livednow.dpdns.org/ofiii203/index.m3u8
+寰宇全視界,http://4gtv.livednow.dpdns.org/ofiii204/index.m3u8
+文茜的世界財經周報,http://4gtv.livednow.dpdns.org/ofiii205/index.m3u8
+環球大戰線,http://4gtv.livednow.dpdns.org/ofiii206/index.m3u8
+少康戰情室,http://4gtv.livednow.dpdns.org/ofiii207/index.m3u8
+國民大會,http://4gtv.livednow.dpdns.org/ofiii208/index.m3u8
+電動車時代,http://4gtv.livednow.dpdns.org/ofiii215/index.m3u8
+SiCAR愛車酷,http://4gtv.livednow.dpdns.org/ofiii216/index.m3u8
+狂人日誌,http://4gtv.livednow.dpdns.org/ofiii217/index.m3u8
+脖子解說 Mr. Neck,http://4gtv.livednow.dpdns.org/ofiii218/index.m3u8
+食尚玩家-Hello腹餓代,http://4gtv.livednow.dpdns.org/ofiii225/index.m3u8
+食尚玩家-天菜就醬吃,http://4gtv.livednow.dpdns.org/ofiii226/index.m3u8
+食尚玩家-2天1夜go,http://4gtv.livednow.dpdns.org/ofiii227/index.m3u8
+食尚玩家-熱血48小時,http://4gtv.livednow.dpdns.org/ofiii228/index.m3u8
+食尚玩家-魚肉鄉民,http://4gtv.livednow.dpdns.org/ofiii229/index.m3u8
+食尚玩家-瘋狂總部,http://4gtv.livednow.dpdns.org/ofiii230/index.m3u8
+非凡大探索,http://4gtv.livednow.dpdns.org/ofiii234/index.m3u8
+台灣1001個故事,http://4gtv.livednow.dpdns.org/ofiii235/index.m3u8
+詹姆士出走料理,http://4gtv.livednow.dpdns.org/ofiii236/index.m3u8
+進擊的台灣,http://4gtv.livednow.dpdns.org/ofiii237/index.m3u8
+世界第一等,http://4gtv.livednow.dpdns.org/ofiii238/index.m3u8
+台灣第一等,http://4gtv.livednow.dpdns.org/ofiii239/index.m3u8
+溢遊未盡,http://4gtv.livednow.dpdns.org/ofiii240/index.m3u8
+台灣真善美,http://4gtv.livednow.dpdns.org/ofiii241/index.m3u8
+請問今晚住誰家,http://4gtv.livednow.dpdns.org/ofiii242/index.m3u8
+早餐中國,http://4gtv.livednow.dpdns.org/ofiii243/index.m3u8
+溢起趣打卡,http://4gtv.livednow.dpdns.org/ofiii244/index.m3u8
+台灣壹百種味道,http://4gtv.livednow.dpdns.org/ofiii245/index.m3u8
+紓壓雷雨聲,http://4gtv.livednow.dpdns.org/ofiii250/index.m3u8
+療癒下雨聲,http://4gtv.livednow.dpdns.org/ofiii251/index.m3u8
+放鬆的爵士午後,http://4gtv.livednow.dpdns.org/ofiii252/index.m3u8
+外燒柴火聲,http://4gtv.livednow.dpdns.org/ofiii253/index.m3u8
+夏日陽光海浪聲,http://4gtv.livednow.dpdns.org/ofiii254/index.m3u8
 
 
 webview,#genre#
