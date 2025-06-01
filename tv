@@ -102,6 +102,18 @@ CHC动作电影,http://171.213.214.145:8888/udp/239.93.42.7:5140
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+PopC,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
+美亚电影台,https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
+天映经典,https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
+凤凰卫视,https://cdn5.163189.xyz/live/fhzw/stream.m3u8
+凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
+凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+重温经典,https://cdn3.163189.xyz/live/cwjd/stream.m3u8
+Channel 5 HD,https://cdn6.163189.xyz/live/ch5/stream.m3u8
+Channel 8 HD,https://cdn6.163189.xyz/live/ch8/stream.m3u8
+Channel U HD,https://cdn6.163189.xyz/live/chu/stream.m3u8
+
+
 
 数字,#genre#
 北京纪实科教,http://171.213.214.145:8888/udp/239.93.0.141:5140
@@ -341,7 +353,7 @@ CETV4,http://sport.pendy.dpdns.org/migu/923287339?token=BCDxUPC2aE0y0iz8JYzYhWA2
 
 台灣台,#genre#
 
-AKTV,#genre#
+
 
 🔞梅林9+9⁺_8833,#genre#
 虎牙,#genre#
