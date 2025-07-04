@@ -1,9 +1,10 @@
 http://171.213.158.43:8688
 http://171.213.169.102:9999
 http://171.213.166.58:8466
+https://s1.tvm4a1
 
 
-http://171.213.(130-255).(0-255):8888/udp/239.93.0.97:5140    8886   8688   8188   8466  8880   8189
+http://171.213.(130-255).(0-255):8888/udp/239.93.0.97:5140    8886   8688   8188   8466  8880   8189   1880 5555 4200   4443
 http://171.213.(130-255).(0-255):8000/udp/239.93.0.97:5140
 http://171.213.(130-255).(0-255):9999/udp/239.93.0.97:5140
 http://171.213.(130-255).(0-255):4022/udp/239.93.0.97:5140
@@ -100,10 +101,10 @@ CCTV-17,http://171.213.166.58:8466/udp/239.93.0.92:5140
 CCTV-5+,http://171.213.166.58:8466/udp/239.93.1.36:8004
 
 卫   视,#genre#
-民視第一台,https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
-TVBS新聞,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
-中天新闻台,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
-東森新聞,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
+民視第一台,https://s1.tvm4a1.cfd/taiwan/CH-0/AKTV.m3u8
+TVBS新聞,https://s1.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
+中天新闻台,https://s1.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8
+東森新聞,https://s1.tvm4a1.cfd/zhongtian/CH-1/AKTV.m3u8
 凤凰中文,http://171.213.158.43:8688/udp/239.93.0.162:2192
 凤凰中文,http://171.213.158.43:8688/udp/239.93.1.9:2192
 凤凰资讯,http://171.213.158.43:8688/udp/239.93.0.118:2191
@@ -286,15 +287,15 @@ CHC动作电影,http://171.213.166.58:8466/udp/239.93.42.7:5140
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
-AXN,https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
-PopC,https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
-ROCK Action,https://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
-美亞電影台(HK),https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8
-天映电影,https://s1.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
-好萊塢電影台,https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
-東森洋片,https://s1.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
-東森電影,https://s1.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
-朝鲜恩情台,https://s1.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
+AXN,https://s1.tvm4a1.cfd/aktv/axn/AKTV.m3u8
+PopC,https://s1.tvm4a1.cfd/aktv/popc/AKTV.m3u8
+ROCK Action,https://s1.tvm4a1.cfd/aktv/rockaction/AKTV.m3u8
+美亞電影台(HK),https://s1.tvm4a1.cfd/aktv/hk/AKTV.m3u8
+天映电影,https://s1.tvm4a1.cfd/aktv2/CH-3/AKTV.m3u8
+好萊塢電影台,https://s1.tvm4a1.cfd/aktv2/CH-4/AKTV.m3u8
+東森洋片,https://s1.tvm4a1.cfd/aktv2/CH-2/AKTV.m3u8
+東森電影,https://s1.tvm4a1.cfd/aktv2/CH-1/AKTV.m3u8
+朝鲜恩情台,https://s1.tvm4a1.cfd/aktv3/CH-0/AKTV.m3u8
 凤凰卫视,https://cdn5.163189.xyz/live/fhzw/stream.m3u8
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
