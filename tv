@@ -524,7 +524,7 @@ Threesome,http://live.redtraffic.xyz/threesome.m3u8
 Russian,http://live.redtraffic.xyz/russian.m3u8
 Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
 
-IP自动扫描,#genre#
+IP自动扫描_8833,#genre#
 开始扫描线路1,https://iptv.dothome.co.kr/1_cache_ip.php
 确认扫描线路1结果,https://iptv.dothome.co.kr/1_player_url.php?id=/udp/239.93.0.184:5140$1
 确认扫描线路1结果,https://iptv.dothome.co.kr/1_player_url.php?id=/udp/239.93.0.184:5140$2
@@ -554,3 +554,4 @@ IP自动扫描,#genre#
 确认扫描线路4结果,https://iptv.dothome.co.kr/4_player_url.php?id=/udp/239.3.1.250:8001$3
 确认扫描线路4结果,https://iptv.dothome.co.kr/4_player_url.php?id=/udp/239.3.1.250:8001$4
 确认扫描线路4结果,https://iptv.dothome.co.kr/4_player_url.php?id=/udp/239.3.1.250:8001$5
+
