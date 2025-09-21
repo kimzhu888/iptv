@@ -9,6 +9,22 @@ http://171.213.(130-255).(0-255):8000/udp/239.93.0.97:5140    8096   8833   82
 http://171.213.(130-255).(0-255):9999/udp/239.93.0.97:5140
 http://171.213.(130-255).(0-255):8188/udp/239.93.0.97:5140
 
+CCTV-1,https://iptv.dothome.co.kr/OK4/player_url.php?id=/udp/239.93.0.184:5140
+CCTV-1,https://iptv.dothome.co.kr/OK4/player_url.php?id=/udp/239.93.0.184:5140&url=url_2
+CCTV-1,https://iptv.dothome.co.kr/OK4/player_url.php?id=/udp/239.93.0.184:5140&url=url_3
+CCTV-2,https://iptv.dothome.co.kr/10/player_url.php?id=/udp/239.93.1.23:6000&ip_index=0
+CCTV-2,https://iptv.dothome.co.kr/10/player_url.php?id=/udp/239.93.1.23:6000&ip_index=1
+CCTV-2,https://iptv.dothome.co.kr/10/player_url.php?id=/udp/239.93.1.23:6000&ip_index=3
+CCTV-2,https://iptv.dothome.co.kr/10/player_url.php?id=/udp/239.93.1.23:6000&ip_index=4
+CCTV-3,https://iptv.dothome.co.kr/10/player_url.php?id=/udp/239.93.0.109:5140&url=url_2
+CCTV-3,https://iptv.dothome.co.kr/10/player_url.php?id=/udp/239.93.0.109:5140&url=url_2&ip_index=0
+CCTV-3,https://iptv.dothome.co.kr/10/player_url.php?id=/udp/239.93.0.109:5140&url=url_2&ip_index=1
+CCTV-3,https://iptv.dothome.co.kr/10/player_url.php?id=/udp/239.93.0.109:5140&url=url_2&ip_index=2
+CCTV-3,https://iptv.dothome.co.kr/10/player_url.php?id=/udp/239.93.0.109:5140&url=url_2&ip_index=3
+CCTV-3,https://iptv.dothome.co.kr/10/player_url.php?id=/udp/239.93.0.109:5140&url=url_2&ip_index=4
+CCTV-3,https://iptv.dothome.co.kr/10/player_url.php?id=/udp/239.93.0.109:5140&url=url_2&ip_index=5
+
+
 https://iptv.dothome.co.kr/player_url.php?script=cctv&id=/udp/239.93.0.184:5140
 央   视,#genre#
 CCTV-1,http://171.213.193.18:8833/udp/239.93.0.184:5140
