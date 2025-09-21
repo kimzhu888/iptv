@@ -156,7 +156,6 @@ HKS,http://A/ku9/js/HKS.js
 凤凰中文,https://iptv.dothome.co.kr/player_url.php?url=url_3&id=/udp/239.93.1.9:2192
 凤凰资讯,https://iptv.dothome.co.kr/player_url.php?url=url_3&id=/udp/239.93.0.118:2191
 凤凰资讯,https://iptv.dothome.co.kr/player_url.php?url=url_3&id=/udp/239.93.1.4:2191
-HKS,http://A/ku9/js/HKS.js
 四川卫视,https://iptv.dothome.co.kr/player_url.php?url=url_3&id=/udp/239.93.0.20:1235
 湖南卫视,https://iptv.dothome.co.kr/player_url.php?url=url_3&id=/udp/239.93.0.88:5140
 江苏卫视,https://iptv.dothome.co.kr/player_url.php?url=url_3&id=/udp/239.93.0.89:5140
@@ -232,8 +231,7 @@ CHC动作电影,https://iptv.dothome.co.kr/player_url.php?url=url_3&id=/udp/239.
 星光院线,https://iptv.dothome.co.kr/player_url.php?url=url_3&id=/udp/239.94.1.23:5140
 全球大片,https://iptv.dothome.co.kr/player_url.php?url=url_3&id=/udp/239.94.1.24:5140
 红色影院,https://iptv.dothome.co.kr/player_url.php?url=url_3&id=/udp/239.94.1.48:5140
-
-淘电影,https://iptv.dothome.co.kr/4_player_url.php?id=/udp/239.3.1.250:8001
+淘电影,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.3.1.250:8001&url=url_4
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
@@ -465,6 +463,37 @@ iHOT,#genre#
 
 回   放,#genre#,DE=-1#SC=-1#HEADERS=null#JS=null#PB=null#HOST=null#PBO=70#IJKAD=-1#TSO=0
 
+TEST,#genre#
+
+TEST,#genre#
+CCTV-1,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.0.184:5140
+CCTV-1,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.0.184:5140&url=url_2
+CCTV-1,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.0.184:5140&url=url_3
+CCTV-2,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.1.23:6000&ip_index=0
+CCTV-2,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.1.23:6000&ip_index=1
+CCTV-2,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.1.23:6000&ip_index=3
+CCTV-2,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.1.23:6000&ip_index=4
+CCTV-3,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.0.109:5140&url=url_2
+CCTV-3,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.0.109:5140&url=url_2&ip_index=0
+CCTV-3,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.0.109:5140&url=url_2&ip_index=1
+CCTV-3,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.0.109:5140&url=url_2&ip_index=2
+CCTV-3,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.0.109:5140&url=url_2&ip_index=3
+CCTV-3,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.0.109:5140&url=url_2&ip_index=4
+CCTV-3,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.0.109:5140&url=url_2&ip_index=5
+CCTV-4,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.1.105:5140
+CCTV-5,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.42.37:5140
+CCTV-6,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.42.38:5140
+CCTV-7,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.1.67:5140
+CCTV-8,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.42.39:5140
+CCTV-9,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.1.24:5140
+CCTV-10,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.1.28:5140
+CCTV-11,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.0.102:5140
+CCTV-12,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.1.30:8124
+CCTV-13,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.0.66:5140
+CCTV-14,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.1.29:6000
+CCTV-15,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.0.103:5140
+CCTV-17,https://iptv.dothome.co.kr/player_url.php?id=/udp/239.93.0.92:5140
+
 
 
 🔞梅林9+9⁺_0000,#genre#
@@ -523,4 +552,3 @@ Cuckold,http://live.redtraffic.xyz/cuckold.m3u8
 Threesome,http://live.redtraffic.xyz/threesome.m3u8
 Russian,http://live.redtraffic.xyz/russian.m3u8
 Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
-
