@@ -15,6 +15,9 @@ CCTV-12,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.93.1.30:8124
 CCTV-13,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.93.0.66:5140
 CCTV-14,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.93.1.29:6000
 CCTV-15,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.93.0.103:5140
+CCTV-16,http://218.52.17.106/player.php?url=5&ip=0&id=/rtp/226.0.2.169:9264
+CCTV-16,http://218.52.17.106/player.php?url=5&ip=1&id=/rtp/226.0.2.169:9264
+CCTV-16,http://218.52.17.106/player.php?url=5&ip=2&id=/rtp/226.0.2.169:9264
 CCTV-17,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.93.0.92:5140
 
 CCTV-1,http://218.52.17.106/player.php?url=2&ip=1&id=/udp/239.93.0.184:5140
@@ -35,9 +38,7 @@ CCTV-14,http://218.52.17.106/player.php?url=2&ip=1&id=/udp/239.93.1.29:6000
 CCTV-15,http://218.52.17.106/player.php?url=2&ip=1&id=/udp/239.93.0.103:5140
 CCTV-17,http://218.52.17.106/player.php?url=2&ip=1&id=/udp/239.93.0.92:5140
 
-CCTV-16,http://218.52.17.106/player.php?url=5&ip=0&id=/rtp/226.0.2.169:9264
-CCTV-16,http://218.52.17.106/player.php?url=5&ip=1&id=/rtp/226.0.2.169:9264
-CCTV-16,http://218.52.17.106/player.php?url=5&ip=2&id=/rtp/226.0.2.169:9264
+
 
 
 CCTV-央视台球,http://218.52.17.106/player.php?url=5&ip=0&id=/rtp/226.0.2.216:9640
