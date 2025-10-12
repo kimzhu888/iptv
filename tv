@@ -519,8 +519,7 @@ CCTV-12,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.64:8124
 CCTV-13,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.124:8128
 CCTV-14,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.65:8132
 CCTV-15,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.153:8136
-CCTV-16 奥林匹克[R],http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.183:8001
-CCTV-16 奥林匹克,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.184:8001
+CCTV-16,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.184:8001
 CCTV-17,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.151:8144
 北京卫视,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.241:8000
 北京新闻,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.159:8000
@@ -528,13 +527,12 @@ CCTV-17,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.151:8144
 北京文艺,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.242:8000
 北京财经,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.116:8000
 北京生活,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.117:8000
-北京青年,http://218.52.17.106/player.php?url=4&ip=0&id=/# rtp/239.3.1.118:8000
 北京纪实科教,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.115:8000
 北京卡酷少儿,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.189:8000
 北京体育休闲,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.243:8000
 北京国际频道,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.235:8000
 爱上4K,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.236:2000
-4K超清,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.249:8001
+北京4K超清,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.249:8001
 淘电影,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.250:8001
 星影,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.94:4120
 动作影院,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.92:4120
@@ -659,8 +657,7 @@ CCTV-12,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.64:8124
 CCTV-13,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.124:8128
 CCTV-14,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.65:8132
 CCTV-15,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.153:8136
-CCTV-16 奥林匹克[R],http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.183:8001
-CCTV-16 奥林匹克,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.184:8001
+CCTV-16,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.184:8001
 CCTV-17,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.151:8144
 北京卫视,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.241:8000
 北京新闻,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.159:8000
@@ -668,13 +665,12 @@ CCTV-17,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.151:8144
 北京文艺,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.242:8000
 北京财经,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.116:8000
 北京生活,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.117:8000
-北京青年,http://218.52.17.106/player.php?url=4&ip=1&id=/# rtp/239.3.1.118:8000
 北京纪实科教,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.115:8000
 北京卡酷少儿,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.189:8000
 北京体育休闲,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.243:8000
 北京国际频道,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.235:8000
 爱上4K,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.236:2000
-4K超清,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.249:8001
+北京4K超清,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.249:8001
 淘电影,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.250:8001
 星影,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.94:4120
 动作影院,http://218.52.17.106/player.php?url=4&ip=1&id=/rtp/239.3.1.92:4120
@@ -798,8 +794,7 @@ CCTV-12,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.64:8124
 CCTV-13,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.124:8128
 CCTV-14,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.65:8132
 CCTV-15,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.153:8136
-CCTV-16 奥林匹克[R],http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.183:8001
-CCTV-16 奥林匹克,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.184:8001
+CCTV-16,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.184:8001
 CCTV-17,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.151:8144
 北京卫视,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.241:8000
 北京新闻,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.159:8000
@@ -807,13 +802,12 @@ CCTV-17,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.151:8144
 北京文艺,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.242:8000
 北京财经,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.116:8000
 北京生活,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.117:8000
-北京青年,http://218.52.17.106/player.php?url=4&ip=2&id=/# rtp/239.3.1.118:8000
 北京纪实科教,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.115:8000
 北京卡酷少儿,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.189:8000
 北京体育休闲,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.243:8000
 北京国际频道,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.235:8000
 爱上4K,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.236:2000
-4K超清,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.249:8001
+北京4K超清,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.249:8001
 淘电影,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.250:8001
 星影,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.94:4120
 动作影院,http://218.52.17.106/player.php?url=4&ip=2&id=/rtp/239.3.1.92:4120
