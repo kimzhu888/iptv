@@ -236,6 +236,15 @@ CHC动作电影,http://218.52.17.106/player.php?id=/udp/239.94.1.175:5140
 星光院线,http://218.52.17.106/player.php?id=/udp/239.94.1.23:5140
 全球大片,http://218.52.17.106/player.php?id=/udp/239.94.1.24:5140
 红色影院,http://218.52.17.106/player.php?id=/udp/239.94.1.48:5140
+淘电影,http://218.52.17.106/player.php?id=/udp/239.3.1.250:8001&url=4
+星影,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.94:4120
+动作影院,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.92:4120
+光影,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.84:4120
+喜剧影院,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.91:4120
+家庭影院,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.93:4120
+精选,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.74:4120
+经典电影,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.195:9024
+
 
 
 CHC家庭影院,http://218.52.17.106/player.php?url=2&id=/udp/239.94.1.173:5140
@@ -258,7 +267,7 @@ CHC动作电影,http://218.52.17.106/player.php?url=3&id=/udp/239.94.1.175:5140
 星光院线,http://218.52.17.106/player.php?url=3&id=/udp/239.94.1.23:5140
 全球大片,http://218.52.17.106/player.php?url=3&id=/udp/239.94.1.24:5140
 红色影院,http://218.52.17.106/player.php?url=3&id=/udp/239.94.1.48:5140
-淘电影,http://218.52.17.106/player.php?id=/udp/239.3.1.250:8001&url=4
+
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
@@ -416,6 +425,7 @@ CCTV-4K,http://218.52.17.106/player.php?id=/udp/239.94.0.20:5140
 山东卫视,http://218.52.17.106/player.php?url=5&id=/rtp/226.0.1.251:2124
 湖南卫视,http://218.52.17.106/player.php?url=5&id=/rtp/226.0.1.246:2125
 四川卫视,http://218.52.17.106/player.php?url=5&id=/rtp/226.0.1.250:2126
+北京4K超清,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.249:8001
 
 北京卫视4K,http://218.52.17.106/player.php?url=6&id=/rtp/226.0.2.155:9172
 深圳卫视,http://218.52.17.106/player.php?url=6&id=/rtp/226.0.1.244:2119
