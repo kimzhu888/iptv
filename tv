@@ -230,7 +230,13 @@ CHC动作电影,http://218.52.17.106/player.php?url=2&id=/udp/239.94.1.175:5140
 法治天地,http://218.52.17.106/player.php?id=/udp/239.94.1.166:5140
 中国天气,http://218.52.17.106/player.php?id=/udp/239.94.1.167:5140
 四海钓鱼,http://218.52.17.106/player.php?id=/udp/239.94.1.168:5140
-
+湖北公共新闻,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.40:9880
+湖北经视,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.41:9886
+湖北综合,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.42:9892
+湖北垄上,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.43:9898
+湖北影视,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.204:10866
+湖北生活,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.205:10872
+湖北教育,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.206:10878
 
 
 北京纪实科教,http://218.52.17.106/player.php?url=2&id=/udp/239.94.0.109:5140
@@ -375,164 +381,74 @@ iHOT,#genre#
 
 
 
-爱喜剧,http://218.52.17.106/player.php?url=3&id=/udp/239.94.1.129:5140
-爱奇谈,http://218.52.17.106/player.php?url=3&id=/udp/239.94.1.130:5140
-爱科幻,http://218.52.17.106/player.php?url=3&id=/udp/239.94.1.131:5140
-爱院线,http://218.52.17.106/player.php?url=3&id=/udp/239.94.1.132:5140
-爱谍战,http://218.52.17.106/player.php?url=3&id=/udp/239.94.1.134:5140
-爱历史,http://218.52.17.106/player.php?url=3&id=/udp/239.94.1.135:5140
-爱悬疑,http://218.52.17.106/player.php?url=3&id=/udp/239.94.1.136:5140
-爱幼教,http://218.52.17.106/player.php?url=3&id=/udp/239.94.1.139:5140
-爱玩具,http://218.52.17.106/player.php?url=3&id=/udp/239.94.1.140:5140
-爱动漫,http://218.52.17.106/player.php?url=3&id=/udp/239.94.1.141:5140
-爱赛车,http://218.52.17.106/player.php?url=3&id=/udp/239.94.1.144:5140
-爱生活,http://218.52.17.106/player.php?url=3&id=/udp/239.94.1.41:5140
-爱体育,http://218.52.17.106/player.php?url=3&id=/udp/239.94.1.44:5140
-爱浪漫,http://218.52.17.106/player.php?url=3&id=/udp/239.94.1.128:5140
-爱旅行,http://218.52.17.106/player.php?url=3&id=/udp/239.94.1.137:5140
-爱宠宠物,http://218.52.17.106/player.php?url=3&id=/udp/239.94.1.145:5140
 
 回   放,#genre#,DE=-1#SC=-1#HEADERS=null#JS=null#PB=null#HOST=null#PBO=70#IJKAD=-1#TSO=0
 
 TEST,#genre#
-TEST,#genre#
-来自北京联通的组播源(125.34.72.213:4022)共有145个频道：
-CCTV-1,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.129:8008
-CCTV-2,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.60:8084
-CCTV-3,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.172:8001
-CCTV-4,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.105:8092
-CCTV-5,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.173:8001
-CCTV-5+,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.130:8004
-CCTV-6,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.174:8001
-CCTV-7,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.61:8104
-CCTV-8,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.175:8001
-CCTV-9,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.62:8112
-CCTV-10,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.63:8116
-CCTV-11,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.152:8120
-CCTV-12,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.64:8124
-CCTV-13,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.124:8128
-CCTV-14,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.65:8132
-CCTV-15,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.153:8136
-CCTV-16,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.184:8001
-CCTV-17,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.151:8144
-北京卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.241:8000
-北京新闻,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.159:8000
-北京影视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.158:8000
-北京文艺,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.242:8000
-北京财经,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.116:8000
-北京生活,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.117:8000
-北京纪实科教,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.115:8000
-北京卡酷少儿,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.189:8000
-北京体育休闲,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.243:8000
-北京国际频道,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.235:8000
-爱上4K,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.236:2000
-北京4K超清,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.249:8001
-淘电影,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.250:8001
-星影,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.94:4120
-动作影院,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.92:4120
-光影,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.84:4120
-喜剧影院,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.91:4120
-家庭影院,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.93:4120
-精选,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.74:4120
-经典电影,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.195:9024
-金鹰纪实,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.58:8156
-地理,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.71:4120
-淘剧场,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.95:8001
-淘娱乐,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.100:8001
-淘Baby,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.238:8001
-萌宠TV,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.102:8001
-湖南卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.132:8012
-东方卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.136:8032
-浙江卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.137:8036
-江苏卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.135:8028
-深圳卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.134:8020
-广东卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.142:8048
-安徽卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.211:8064
-天津卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.141:1234
-重庆卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.122:8160
-山东卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.209:8052
-黑龙江卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.133:8016
-河北卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.148:8072
-辽宁卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.210:8056
-湖北卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.138:8044
-吉林卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.240:8172
-贵州卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.149:8076
-东南卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.156:8148
-江西卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.123:8164
-海南卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.45:8304
-云南卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.26:8108
-兵团卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.144:4120
-厦门卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.143:4120
-四川卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.29:8288
-南方卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.161:8001
-宁夏卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.46:8124
-山西卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.42:8172
-广西卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.39:8300
-新疆卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.48:8160
-河南卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.27:8128
-甘肃卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.49:8188
-西藏卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.47:8164
-三沙卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.155:4120
-陕西卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.41:8140
-青海卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.44:8184
-内蒙古卫视,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.43:8176
-中国交通,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.188:8001
-朝阳融媒,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.163:8001
-通州融媒,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.221:8001
-密云电视台,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.154:8001
-延庆电视台,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.187:8001
-房山电视台,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.96:8001
-CCTV-4 中文国际 欧洲,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.213:4220
-CCTV-4 中文国际 美洲,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.214:4220
-CGTN 新闻,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.215:4220
-CGTN 记录,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.216:4220
-CGTN 西班牙语,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.217:4220
-CGTN 法语,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.218:4220
-CGTN 阿拉伯语,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.219:4220
-CGTN 俄语,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.220:4220
-睛彩竞技,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.125:8001
-睛彩篮球,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.126:8001
-睛彩羽毛球,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.127:8001
-睛彩广场舞,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.128:8001
-茶频道,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.165:8001
-体育赛事,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.157:8176
-淘精彩,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.178:8001
-快乐垂钓,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.164:8001
-大健康,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.251:8001
-CETV1,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.57:8152
-CETV2,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.54:4120
-CETV3,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.55:4120
-CETV4,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.56:4120
-少儿动画,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.199:9000
-热播剧场,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.194:9020
-解密,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.75:4120
-军事,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.76:4120
-军旅剧场,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.68:4120
-动画,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.80:4120
-古装剧场,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.69:4120
-台球,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.85:4120
-嘉佳卡通,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.147:9268
-国学,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.77:4120
-城市剧场,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.67:4120
-墨宝,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.83:4120
-好学生,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.81:4120
-山东教育,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.52:4120
-戏曲,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.78:4120
-收视指南,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.193:8012
-早教,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.79:4120
-武侠剧场,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.90:4120
-武术,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.87:4120
-爱生活,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.86:4120
-美人,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.73:4120
-美妆,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.72:4120
-财富天下,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.53:9136
-足球,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.89:4120
-金鹰卡通,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.51:9252
-鉴赏,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.82:4120
-音乐现场,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.70:4120
-高网,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.88:4120
-魅力时尚,http://218.52.17.106/player.php?url=4&id=/rtp/239.3.1.196:9012
 
+
+한국채널,#genre#
+来自South Korea SK的组播源(180.69.60.42:8856)共有176个频道：
+KBS1,udp://udp/239.192.67.100:49220
+KBS2,udp://udp/239.192.67.99:49220
+SBS,udp://udp/239.192.67.98:49220
+MBC,udp://udp/239.192.67.101:49220
+YTN,udp://udp/239.192.47.7:49220
+SCREEN,udp://udp/239.192.67.229:49220
+OCN,udp://udp/239.192.67.226:49220
+OCN Movies,udp://udp/239.192.67.227:49220
+OCN Thrills,udp://udp/239.192.67.228:49220
+UMAX 4K UHD,udp://udp/239.192.81.34:49220
+Asia 4K UHD,udp://udp/239.192.81.36:49220
+UXN 4K,udp://udp/239.192.81.38:49220
+UHD Dream TV 4K,udp://udp/239.192.81.37:49220
+Unnamed 4K UHD,udp://udp/239.192.81.39:49220
+SBS F!L 4K UHD,udp://udp/239.192.81.65:49220
+EBS2,udp://udp/239.192.42.2:49220
+KBSN 스포츠,udp://udp/239.192.67.132:49220
+MBC Sports+,udp://udp/239.192.67.131:49220
+SPOTV,udp://udp/239.192.67.133:49220
+SBS Sports,udp://udp/239.192.67.130:49220
+SPOTV 2,udp://udp/239.192.67.162:49220
+SPOTV Golf&Health,udp://udp/239.192.67.163:49220
+SBS Golf,udp://udp/239.192.67.164:49220
+JTBC Golf,udp://udp/239.192.67.165:49220
+홈쇼핑 분할,udp://udp/239.192.81.5:49220
+스포츠 분할1,udp://udp/239.192.81.4:49220
+지상파 분할,udp://udp/239.192.81.6:49220
+스포츠 분할2,udp://udp/239.192.81.3:49220
+영화 분할,udp://udp/239.192.81.7:49220
+
+KBS1,http://180.69.60.42:8856/udp/239.192.67.100:49220
+KBS2,http://180.69.60.42:8856/udp/239.192.67.99:49220
+SBS,http://180.69.60.42:8856/udp/239.192.67.98:49220
+MBC,http://180.69.60.42:8856/udp/239.192.67.101:49220
+YTN,http://180.69.60.42:8856/udp/239.192.47.7:49220
+SCREEN,http://180.69.60.42:8856/udp/239.192.67.229:49220
+OCN,http://180.69.60.42:8856/udp/239.192.67.226:49220
+OCN Movies,http://180.69.60.42:8856/udp/239.192.67.227:49220
+OCN Thrills,http://180.69.60.42:8856/udp/239.192.67.228:49220
+UMAX 4K UHD,http://180.69.60.42:8856/udp/239.192.81.34:49220
+Asia 4K UHD,http://180.69.60.42:8856/udp/239.192.81.36:49220
+UXN 4K,http://180.69.60.42:8856/udp/239.192.81.38:49220
+UHD Dream TV 4K,http://180.69.60.42:8856/udp/239.192.81.37:49220
+Unnamed 4K UHD,http://180.69.60.42:8856/udp/239.192.81.39:49220
+SBS F!L 4K UHD,http://180.69.60.42:8856/udp/239.192.81.65:49220
+EBS2,http://180.69.60.42:8856/udp/239.192.42.2:49220
+KBSN 스포츠,http://180.69.60.42:8856/udp/239.192.67.132:49220
+MBC Sports+,http://180.69.60.42:8856/udp/239.192.67.131:49220
+SPOTV,http://180.69.60.42:8856/udp/239.192.67.133:49220
+SBS Sports,http://180.69.60.42:8856/udp/239.192.67.130:49220
+SPOTV 2,http://180.69.60.42:8856/udp/239.192.67.162:49220
+SPOTV Golf&Health,http://180.69.60.42:8856/udp/239.192.67.163:49220
+SBS Golf,http://180.69.60.42:8856/udp/239.192.67.164:49220
+JTBC Golf,http://180.69.60.42:8856/udp/239.192.67.165:49220
+
+홈쇼핑 분할,http://180.69.60.42:8856/udp/239.192.81.5:49220
+스포츠 분할1,http://180.69.60.42:8856/udp/239.192.81.4:49220
+지상파 분할,http://180.69.60.42:8856/udp/239.192.81.6:49220
+스포츠 분할2,http://180.69.60.42:8856/udp/239.192.81.3:49220
+영화 분할,http://180.69.60.42:8856/udp/239.192.81.7:49220
 
 
 
