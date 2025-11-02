@@ -16,10 +16,25 @@ CCTV-13,http://218.52.17.106/player.php?id=/udp/239.93.0.66:5140
 CCTV-14,http://218.52.17.106/player.php?id=/udp/239.93.1.29:6000
 CCTV-15,http://218.52.17.106/player.php?id=/udp/239.93.0.103:5140
 
+CCTV16,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.247:11124
+CCTV16,http://218.52.17.106/player.php?url=8&ip=0&id=/rtp/239.69.1.247:11124
 
 CCTV-17,http://218.52.17.106/player.php?id=/udp/239.93.0.92:5140
 
+CCTV第一剧场,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.74:10084
+CCTV兵器科技,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.79:10114
+CCTV风云足球,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.81:10126
+CCTV高尔夫网球,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.83:10138
+CCTV世界地理,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.91:10186
+CCTV央视台球,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.98:10224
 
+
+CCTV第一剧场,http://218.52.17.106/player.php?url=8&ip=0&id=/rtp/239.69.1.74:10084
+CCTV兵器科技,http://218.52.17.106/player.php?url=8&ip=0&id=/rtp/239.69.1.79:10114
+CCTV风云足球,http://218.52.17.106/player.php?url=8&ip=0&id=/rtp/239.69.1.81:10126
+CCTV高尔夫网球,http://218.52.17.106/player.php?url=8&ip=0&id=/rtp/239.69.1.83:10138
+CCTV世界地理,http://218.52.17.106/player.php?url=8&ip=0&id=/rtp/239.69.1.91:10186
+CCTV央视台球,http://218.52.17.106/player.php?url=8&ip=0&id=/rtp/239.69.1.98:10224
 
 
 CCTV-1,http://218.52.17.106/player.php?url=2&id=/udp/239.93.0.184:5140
