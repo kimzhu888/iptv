@@ -36,8 +36,8 @@ CCTV-13,http://218.52.17.106/player.php?id=/udp/239.93.0.66:5140
 CCTV-14,http://218.52.17.106/player.php?id=/udp/239.93.1.29:6000
 CCTV-15,http://218.52.17.106/player.php?id=/udp/239.93.0.103:5140
 
-CCTV16,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.247:11124
-CCTV16,http://218.52.17.106/player.php?url=8&ip=0&id=/rtp/239.69.1.247:11124
+CCTV-16,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.247:11124
+CCTV-16,http://218.52.17.106/player.php?url=8&ip=0&id=/rtp/239.69.1.247:11124
 
 CCTV-17,http://218.52.17.106/player.php?id=/udp/239.93.0.92:5140
 
@@ -527,6 +527,7 @@ Cuckold,http://live.redtraffic.xyz/cuckold.m3u8
 Threesome,http://live.redtraffic.xyz/threesome.m3u8
 Russian,http://live.redtraffic.xyz/russian.m3u8
 Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
+
 
 
 
