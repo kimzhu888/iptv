@@ -79,7 +79,7 @@ CCTV-5+,http://218.52.17.106/player.php?url=2&id=/udp/239.93.1.36:8004
 
 
 卫   视,#genre#
-凤凰中文,http://218.52.17.106/player.php?id=/udp/239.93.0.162:2192
+凤凰中文,http://218.52.17.106/player.php?ip=0&id=/udp/239.93.0.162:2192
 凤凰中文,http://218.52.17.106/player.php?id=/udp/239.93.1.9:2192
 凤凰资讯,http://218.52.17.106/player.php?id=/udp/239.93.0.118:2191
 凤凰资讯,http://218.52.17.106/player.php?id=/udp/239.93.1.4:2191
@@ -527,6 +527,7 @@ Cuckold,http://live.redtraffic.xyz/cuckold.m3u8
 Threesome,http://live.redtraffic.xyz/threesome.m3u8
 Russian,http://live.redtraffic.xyz/russian.m3u8
 Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
+
 
 
 
