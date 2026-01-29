@@ -43,7 +43,6 @@ CCTV-17,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.0.39:5140
 
 CCTV第一剧场,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.74:10084
 CCTV兵器科技,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.79:10114
-CCTV兵器科技,http://218.52.17.106/player.php?url=7&ip=1&id=/rtp/239.69.1.79:10114
 CCTV风云足球,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.81:10126
 CCTV高尔夫网球,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.83:10138
 CCTV世界地理,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.91:10186
@@ -346,18 +345,7 @@ CCTV16 4K,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.249:11136
 广东卫视4K,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.2.27:11316
 深圳卫视4K,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.2.28:11322
 
-CCTV4K,http://218.52.17.106/player.php?url=7&ip=1&id=/rtp/239.69.1.111:10304
-CCTV16 4K,http://218.52.17.106/player.php?url=7&ip=1&id=/rtp/239.69.1.249:11136
-欢笑剧场,http://218.52.17.106/player.php?url=7&ip=1&id=/rtp/239.69.2.5:11184
-湖南卫视4K,http://218.52.17.106/player.php?url=7&ip=1&id=/rtp/239.69.2.34:11358
-浙江卫视4K,http://218.52.17.106/player.php?url=7&ip=1&id=/rtp/239.69.2.35:11364
-江苏卫视4K,http://218.52.17.106/player.php?url=7&ip=1&id=/rtp/239.69.2.36:11370
-东方卫视4K,http://218.52.17.106/player.php?url=7&ip=1&id=/rtp/239.69.2.37:11376
-山东卫视4K,http://218.52.17.106/player.php?url=7&ip=1&id=/rtp/239.69.2.38:11382
-四川卫视4K,http://218.52.17.106/player.php?url=7&ip=1&id=/rtp/239.69.2.39:11388
-北京卫视4K,http://218.52.17.106/player.php?url=7&ip=1&id=/rtp/239.69.2.22:11286
-广东卫视4K,http://218.52.17.106/player.php?url=7&ip=1&id=/rtp/239.69.2.27:11316
-深圳卫视4K,http://218.52.17.106/player.php?url=7&ip=1&id=/rtp/239.69.2.28:11322
+
 
 CCTV4K,http://218.52.17.106/player.php?url=8&ip=0&id=/rtp/239.69.1.111:10304
 CCTV16 4K,http://218.52.17.106/player.php?url=8&ip=0&id=/rtp/239.69.1.249:11136
@@ -746,6 +734,7 @@ CGTNSD,http://218.52.17.106/player.php?url=9&ip=0&id=/rtp/233.18.204.28:5140
 家庭理财SD,http://218.52.17.106/player.php?url=9&ip=0&id=/rtp/233.18.204.157:5140
 未知节目SD,http://218.52.17.106/player.php?url=9&ip=0&id=/rtp/233.18.204.203:5140
 渐江卫视SD,http://218.52.17.106/player.php?url=9&ip=0&id=/rtp/233.18.204.121:5140
+
 
 
 
