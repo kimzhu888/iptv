@@ -174,7 +174,7 @@ CCTV-5+,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.0.23:5140
 
 
 
-电   影,#genre#,DE=-1#SC=-1#HEADERS=null#JS=null#PB=null#HOST=null#PBO=70#IJKAD=-1#TSO=0
+电   影,#genre#,
 
 CHC家庭影院,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.1.173:5140
 CHC影迷电影,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.1.174:5140
@@ -734,6 +734,7 @@ CGTNSD,http://218.52.17.106/player.php?url=9&ip=0&id=/rtp/233.18.204.28:5140
 家庭理财SD,http://218.52.17.106/player.php?url=9&ip=0&id=/rtp/233.18.204.157:5140
 未知节目SD,http://218.52.17.106/player.php?url=9&ip=0&id=/rtp/233.18.204.203:5140
 渐江卫视SD,http://218.52.17.106/player.php?url=9&ip=0&id=/rtp/233.18.204.121:5140
+
 
 
 
