@@ -407,6 +407,21 @@ iHOT,#genre#
 
 TEST,#genre#
 
+#EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss|Asia/Shanghai}&etime=${(e)yyyyMMddHHmmss|Asia/Shanghai}&type=lbacks",CCTV-1 综合
+
+webview://https://tv.cctv.com/live/cctv1/
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视;央视频",CCTV-1 综合
+webview://https://yangshipin.cn/tv/home?pid=600001859
+
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss|Asia/Shanghai}&etime=${(e)yyyyMMddHHmmss|Asia/Shanghai}&type=lbacks",CCTV-2 财经
+webview://https://tv.cctv.com/live/cctv2/
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视;央视频",CCTV-2 财经
+webview://https://yangshipin.cn/tv/home?pid=600001800
+
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss|Asia/Shanghai}&etime=${(e)yyyyMMddHHmmss|Asia/Shanghai}&type=lbacks",CCTV-3 综艺
+webview://https://tv.cctv.com/live/cctv3/
 
 한국채널,#genre#
 来自South Korea SK的组播源(180.69.60.42:8856)共有176个频道：
@@ -734,6 +749,7 @@ CGTNSD,http://218.52.17.106/player.php?url=9&ip=0&id=/rtp/233.18.204.28:5140
 家庭理财SD,http://218.52.17.106/player.php?url=9&ip=0&id=/rtp/233.18.204.157:5140
 未知节目SD,http://218.52.17.106/player.php?url=9&ip=0&id=/rtp/233.18.204.203:5140
 渐江卫视SD,http://218.52.17.106/player.php?url=9&ip=0&id=/rtp/233.18.204.121:5140
+
 
 
 
