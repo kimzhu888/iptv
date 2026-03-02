@@ -692,7 +692,7 @@ TEST,#genre#
 
 
 
-한국채널,#genre#
+한국채널,#genre#,DE=1
 来自South Korea SK的组播源(180.69.60.42:8856)共有176个频道：
 
 KBS1,http://218.52.17.106/player.php?url=sk&ip=0&id=/udp/239.192.67.100:49220
@@ -845,6 +845,7 @@ Cuckold,http://live.redtraffic.xyz/cuckold.m3u8
 Threesome,http://live.redtraffic.xyz/threesome.m3u8
 Russian,http://live.redtraffic.xyz/russian.m3u8
 Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
+
 
 
 
