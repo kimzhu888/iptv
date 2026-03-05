@@ -342,6 +342,19 @@ BesTV4K动画,http://218.52.17.106/player.php?url=3&ip=0&id=/rtp/233.18.204.171:
 
 
 数   字,#genre#
+北京新闻,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.159:8000
+北京影视,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.158:8000
+北京文艺,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.242:8000
+北京财经,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.116:8000
+北京生活,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.117:8000
+北京纪实科教,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.115:8000
+北京卡酷少儿,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.189:8000
+北京体育休闲,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.243:8000
+北京国际,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.235:8000
+淘剧场,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.95:8001
+淘娱乐,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.100:8001
+萌宠TV,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.102:8001
+
 北京纪实科教,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.0.109:5140
 金鹰纪实,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.1.1:5140
 宝宝动画,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.1.32:5140
@@ -354,12 +367,6 @@ BesTV4K动画,http://218.52.17.106/player.php?url=3&ip=0&id=/rtp/233.18.204.171:
 热门剧场,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.1.26:5140
 健康养生,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.1.27:5140
 谍战剧场,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.1.28:5140
-卡酷动画,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.1.29:5140
-金鹰卡通,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.1.30:5140
-优漫卡通,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.1.31:5140
-宝宝动画,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.1.32:5140
-少儿动画,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.1.33:5140
-青春动漫,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.1.34:5140
 热门综艺,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.1.35:5140
 音乐现场,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.1.36:5140
 魅力时尚,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.1.39:5140
@@ -389,44 +396,38 @@ BesTV4K动画,http://218.52.17.106/player.php?url=3&ip=0&id=/rtp/233.18.204.171:
 湖北教育,http://218.52.17.106/player.php?url=7&ip=0&id=/rtp/239.69.1.206:10878
 
 
-北京纪实科教,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.0.109:5140
-金鹰纪实,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.1:5140
-宝宝动画,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.32:5140
-热门综艺,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.35:5140
-东方财经,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.59:5140
-都市剧场,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.133:5140
-动漫秀场,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.171:5140
-精彩影视,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.172:5140
-热播剧场,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.25:5140
-热门剧场,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.26:5140
-健康养生,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.27:5140
-谍战剧场,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.28:5140
-卡酷动画,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.29:5140
-金鹰卡通,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.30:5140
-优漫卡通,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.31:5140
-宝宝动画,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.32:5140
-少儿动画,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.33:5140
-青春动漫,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.34:5140
-热门综艺,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.35:5140
-音乐现场,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.36:5140
-魅力时尚,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.39:5140
-百变课堂,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.43:5140
-足球,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.47:5140
-经典剧场,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.49:5140
-家庭理财,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.50:5140
-墨宝,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.51:5140
-军事,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.52:5140
-解密,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.53:5140
-地理,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.54:5140
-生活时尚,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.146:5140
-快乐垂钓,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.153:5140
-茶频道,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.154:5140
-乐龄学堂,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.155:5140
-少儿天地,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.138:5140
-金色学堂,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.165:5140
-法治天地,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.166:5140
-中国天气,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.167:5140
-四海钓鱼,http://218.52.17.106/player.php?url=2&ip=0&id=/udp/239.94.1.168:5140
+北京纪实科教,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.0.109:5140
+金鹰纪实,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.1:5140
+宝宝动画,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.32:5140
+热门综艺,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.35:5140
+东方财经,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.59:5140
+都市剧场,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.133:5140
+动漫秀场,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.171:5140
+精彩影视,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.172:5140
+热播剧场,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.25:5140
+热门剧场,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.26:5140
+健康养生,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.27:5140
+谍战剧场,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.28:5140
+热门综艺,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.35:5140
+音乐现场,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.36:5140
+魅力时尚,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.39:5140
+百变课堂,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.43:5140
+足球,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.47:5140
+经典剧场,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.49:5140
+家庭理财,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.50:5140
+墨宝,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.51:5140
+军事,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.52:5140
+解密,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.53:5140
+地理,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.54:5140
+生活时尚,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.146:5140
+快乐垂钓,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.153:5140
+茶频道,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.154:5140
+乐龄学堂,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.155:5140
+少儿天地,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.138:5140
+金色学堂,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.165:5140
+法治天地,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.166:5140
+中国天气,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.167:5140
+四海钓鱼,http://218.52.17.106/player.php?url=1&ip=1&id=/udp/239.94.1.168:5140
 
 
 
@@ -629,6 +630,7 @@ Cuckold,http://live.redtraffic.xyz/cuckold.m3u8
 Threesome,http://live.redtraffic.xyz/threesome.m3u8
 Russian,http://live.redtraffic.xyz/russian.m3u8
 Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
+
 
 
 
