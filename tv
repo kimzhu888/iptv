@@ -180,7 +180,6 @@ CCTV-17,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.151:8144
 西藏卫视,http://218.52.17.106/player.php?url=8&ip=0&id=/rtp/239.69.2.31:11340
 兵团卫视,http://218.52.17.106/player.php?url=8&ip=0&id=/rtp/239.69.2.32:11346
 
-卫   视,#genre#
 凤凰中文,http://218.52.17.106/player.php?url=9&ip=0&id=/rtp/239.69.2.20:11274
 凤凰资讯,http://218.52.17.106/player.php?url=9&ip=0&id=/rtp/239.69.2.19:11268
 重庆卫视,http://218.52.17.106/player.php?url=9&ip=0&id=/rtp/239.69.1.149:10530
@@ -214,8 +213,10 @@ CCTV-17,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.151:8144
 新疆卫视,http://218.52.17.106/player.php?url=9&ip=0&id=/rtp/239.69.2.30:11334
 西藏卫视,http://218.52.17.106/player.php?url=9&ip=0&id=/rtp/239.69.2.31:11340
 兵团卫视,http://218.52.17.106/player.php?url=9&ip=0&id=/rtp/239.69.2.32:11346
-凤凰卫视,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.2.51:5140
-凤凰卫视,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.2.52:5140
+
+
+凤凰中文,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.2.51:5140
+凤凰中文,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.2.52:5140
 凤凰资讯,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.2.49:5140
 凤凰资讯,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.2.50:5140
 四川卫视,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.0.59:5140
@@ -250,13 +251,10 @@ CCTV-17,http://218.52.17.106/player.php?url=4&ip=0&id=/rtp/239.3.1.151:8144
 宁夏卫视,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.0.96:5140
 西藏卫视,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.0.97:5140
 新疆卫视,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.0.98:5140
-海南卫视,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.0.100:5140
 兵团卫视,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.0.102:5140
 厦门卫视,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.0.104:5140
-三沙卫视,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.0.105:5140
-山东教育卫视,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.0.106:5140
 延边卫视,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.0.107:5140
-安多卫视,http://218.52.17.106/player.php?url=1&ip=0&id=/udp/239.94.0.110:5140
+
 
 
 
@@ -629,6 +627,7 @@ Cuckold,http://live.redtraffic.xyz/cuckold.m3u8
 Threesome,http://live.redtraffic.xyz/threesome.m3u8
 Russian,http://live.redtraffic.xyz/russian.m3u8
 Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
+
 
 
 
